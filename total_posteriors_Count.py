@@ -1,4 +1,4 @@
-__author__ = 'polvicia'
+__author__ = 'PaulaRS'
 
 # Print total presences, multi, gains, losses, expansions, contractions from Posteriors - Count
 # Count software for analysis of gene content evolution is
