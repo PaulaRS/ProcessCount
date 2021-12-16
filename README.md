@@ -13,6 +13,6 @@ Install the following python packages: argparse, pandas, re, math
 
 ./total_posteriors_Count.py --posteriors <Posteriors_from_Count.csv>
 
-# Suggested citation
+# Citation
 
 Paula Ramos-Silva, Mónica Serrano, Adriano O Henriques, From Root to Tips: Sporulation Evolution and Specialization in Bacillus subtilis and the Intestinal Pathogen Clostridioides difficile, Molecular Biology and Evolution, Volume 36, Issue 12, December 2019, Pages 2714–2736, https://doi.org/10.1093/molbev/msz175
