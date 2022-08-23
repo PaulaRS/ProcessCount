@@ -7,6 +7,7 @@ http://www.iro.umontreal.ca/~csuros/gene_content/count.html
 
 # Before running the script
 
+Runs in Python 2.7
 Install the following python packages: argparse, pandas, re, math
 
 # Running the script
