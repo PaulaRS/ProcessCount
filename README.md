@@ -1,6 +1,6 @@
 # About ProcessCount
 
-This repository constains the python script **total_posteriors_Count.py** to calculate the total gene presences, multi, gains, losses, expansions, contractions ocurring per each branch/node in a phylogenetic tree. 
+This repository contains the python script **total_posteriors_Count.py** to calculate the total gene presences, multi, gains, losses, expansions, contractions ocurring per each branch/node in a phylogenetic tree. 
 
 Input file is the table resulting from Posteriors analysis made with the software Count:
 http://www.iro.umontreal.ca/~csuros/gene_content/count.html
