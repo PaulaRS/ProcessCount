@@ -13,7 +13,7 @@ Install the following python packages: argparse, pandas, re, math
 
 python total_posteriors_Count.py -h
 
-python total_posteriors_Count.py --posteriors <posteriors_table.csv>
+python total_posteriors_Count.py --posteriors <input/posteriors_table.csv>
 
 # Citation
 
