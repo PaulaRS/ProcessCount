@@ -1,5 +1,5 @@
 __author__ = 'Paula Ramos-Silva'
-
+# ======================================================================
 # Print total presences, multi, gains, losses, expansions, contractions from Posteriors - Count
 # Count software for analysis of gene content evolution is
 # available at http://www.iro.umontreal.ca/~csuros/gene_content/count.html
@@ -17,6 +17,7 @@ import argparse
 import pandas
 import re
 import math
+import sys
 
 def main():
     parser = argparse.ArgumentParser(description="Print total presences, multi, gains, losses, expansions, contractions from Posteriors - Count")
@@ -58,6 +59,9 @@ def countTotalbyNode(rows, columns, posteriorsdf):
 
 #########################
 
-if __name__=="__main__": main()
-
-
+if __name__=="__main__":
+    usage = "python total_posteriors_Count.py --posteriors <your_posteriors_table.csv>"
+    if len(sys.argv) != 1:
+        print("Incorrect arguments.\nUsage is : ", usage)
+        sys.exit()
+    main()
