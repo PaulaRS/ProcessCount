@@ -10,7 +10,6 @@ Given a phylogenetic profile as input, COUNT computes posterior probabilities fo
 This data is retrieved in a large table and processed here with total_posteriors_Count.py to estimate the total number
 of gains, losses, presences, expansions, contractions and multiple presences in a readable format. 
 
-
 usage: python total_posteriors_Count.py --posteriors [POSTERIORS FILE]
 
 References: 
@@ -23,8 +22,6 @@ Volume 26, Issue 15, August 2010, Pages 1910–1912, https://doi.org/10.1093/bio
 3. Paula Ramos-Silva, Mónica Serrano, Adriano O Henriques, From Root to Tips: Sporulation Evolution and Specialization 
 in Bacillus subtilis and the Intestinal Pathogen Clostridioides difficile, Molecular Biology and Evolution, Volume 36, 
 Issue 12, December 2019, Pages 2714–2736, https://doi.org/10.1093/molbev/msz175
-
-Usage:
 
 Tested with:
 Python 2.7.1
