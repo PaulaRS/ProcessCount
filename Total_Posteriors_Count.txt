@@ -1,0 +1,3170 @@
+Nostoc punctiforme PCC 73102:present	117
+Microcystis aeruginosa NIES 843:present	96
+Thermosynechococcus elongatus BP 1:present	84
+Olsenella uli DSM 7084:present	69
+Gordonibacter pamelaeae 7 10 1 b:present	58
+Bifidobacterium bifidum PRL2010:present	59
+Bifidobacterium longum DJO10A:present	67
+Propionibacterium acnes ATCC 11828:present	82
+Propionibacterium acidipropionici ATCC 4875:present	91
+Mycobacterium tuberculosis H37Rv:present	108
+Mycobacterium marinum M:present	127
+Mycobacterium avium subsp paratuberculosis K 10:present	112
+Rhodococcus erythropolis CCM2595:present	128
+Nocardia brasiliensis ATCC 700358:present	148
+Nocardia cyriacigeorgica GUH 2:present	122
+Streptomyces collinus Tu 365:present	140
+Streptomyces pratensis ATCC 33331:present	137
+Streptomyces fulvissimus DSM 40593:present	130
+Kyrpidia tusciae DSM 2912:present	269
+Alicyclobacillus acidocaldarius subsp acidocaldarius DSM 446:present	260
+Bacillus cellulosilyticus DSM 2522:present	387
+Bacillus selenitireducens MLS10:present	182
+Bacillus halodurans C 125:present	413
+Bacillus pseudofirmus OF4:present	400
+Bacillus clausii KSM K16:present	404
+Exiguobacterium sibiricum 255 15:present	190
+Exiguobacterium antarcticum B7:present	183
+Turicibacter sanguinis PC909:present	180
+Listeria seeligeri serovar 1 2b str SLCC3954:present	158
+Listeria ivanovii subsp ivanovii PAM 55:present	150
+Listeria monocytogenes serotype 4b str F2365:present	156
+Carnobacterium maltaromaticum LMA28:present	158
+Carnobacterium inhibens subsp gilichinskyi:present	138
+Aerococcus urinae ACS 120 V Col10a:present	87
+Lactobacillus casei BL23:present	122
+Lactobacillus brevis ATCC 367:present	108
+Lactobacillus plantarum JDM1:present	135
+Pediococcus pentosaceus ATCC 25745:present	98
+Pediococcus claussenii ATCC BAA 344:present	102
+Weissella koreensis KACC 15510:present	75
+Oenococcus oeni PSU 1:present	93
+Leuconostoc mesenteroides subsp mesenteroides ATCC 8293:present	95
+Leuconostoc citreum KM20:present	94
+Leuconostoc carnosum JB16:present	86
+Lactococcus lactis subsp lactis KF147:present	105
+Lactococcus garvieae ATCC 49156:present	90
+Streptococcus infantarius subsp infantarius CJ18:present	85
+Streptococcus salivarius CCHSS3:present	85
+Streptococcus pneumoniae SPN032672:present	91
+Streptococcus parasanguinis ATCC 15912:present	89
+Enterococcus faecalis V583:present	126
+Melissococcus plutonius DAT561:present	88
+Enterococcus hirae ATCC 9790:present	113
+Tetragenococcus halophilus NBRC 12172:present	110
+Enterococcus casseliflavus EC20:present	127
+Solibacillus silvestris StLB046:present	278
+Macrococcus caseolyticus JCSC5402:present	150
+Staphylococcus saprophyticus subsp saprophyticus ATCC 15305:present	148
+Staphylococcus aureus subsp aureus NCTC 8325:present	134
+Staphylococcus haemolyticus JCSC1435:present	145
+Staphylococcus pasteuri SP1:present	143
+Staphylococcus epidermidis ATCC 12228:present	137
+Bacillus pumilus SAFR 032:present	548
+Bacillus licheniformis DSM 13 ATCC 14580:present	572
+Bacillus paralicheniformis ATCC 9945a:present	571
+Bacillus subtilis BSn5:present	715
+Bacillus subtilis subsp subtilis str 168:present	725
+Bacillus amyloliquefaciens DSM 7:present	589
+Bacillus methylotrophicus FZB42:present	605
+Bacillus atrophaeus 1942:present	646
+Bacillus coagulans 2 6:present	392
+Bacillus infantis NRRL B 14911:present	506
+Anoxybacillus flavithermus WK1:present	375
+Geobacillus thermoglucosidasius C56 YS93:present	431
+Geobacillus thermodenitrificans NG80 2:present	424
+Geobacillus thermoleovorans CCB US3 UF5:present	417
+Geobacillus kaustophilus HTA426:present	414
+Bacillus cytotoxicus NVH 391 98:present	446
+Bacillus thuringiensis BMB171:present	471
+Bacillus anthracis str Ames:present	463
+Bacillus cereus biovar anthracis str CI:present	470
+Bacillus cereus ATCC 10987:present	470
+Bacillus weihenstephanensis KBAB4:present	459
+Bacillus toyonensis BCT 7112:present	448
+Bacillus megaterium DSM 319:present	505
+Amphibacillus xylanus NBRC 15112:present	241
+Halobacillus halophilus DSM 2266:present	383
+Oceanobacillus iheyensis HTE831:present	368
+Paenibacillus mucilaginosus 3016:present	375
+Paenibacillus larvae subsp larvae DSM 25430:present	304
+Thermobacillus composti KWC4:present	292
+Paenibacillus terrae HPL 003:present	345
+Paenibacillus polymyxa E681:present	336
+Brevibacillus reuszeri strain DSM 9887:present	401
+Brevibacillus thermoruber 423:present	362
+Brevibacillus laterosporus LMG 15441:present	361
+Thermincola potens JR:present	227
+Carboxydothermus hydrogenoformans Z 2901:present	191
+Ammonifex degensii KC4:present	154
+Candidatus Desulforudis audaxviator MP104C:present	173
+Desulfotomaculum nigrificans CO 1 SRB:present	226
+Desulfotomaculum reducens MI 1:present	234
+Desulfotomaculum ruminis DSM 2154:present	241
+Desulfotomaculum acetoxidans DSM 771:present	216
+Desulfotomaculum gibsoniae DSM 7213:present	228
+Heliobacterium modesticaldum Ice1:present	199
+Syntrophobotulus glycolicus DSM 8271:present	190
+Dehalobacter sp CF:present	186
+Dehalobacter sp DCA:present	187
+Desulfitobacterium dichloroeliminans LMG P 21439:present	234
+Desulfitobacterium dehalogenans ATCC 51507:present	231
+Desulfitobacterium hafniense DCB 2:present	236
+Desulfosporosinus acidiphilus SJ4:present	249
+Desulfosporosinus meridiei DSM 13257:present	245
+Desulfosporosinus orientis DSM 765:present	268
+Syntrophomonas wolfei subsp wolfei str Goettingen G311:present	172
+Syntrophothermus lipocalidus DSM 12680:present	163
+Thermacetogenium phaeum DSM 12270:present	172
+Moorella thermoacetica ATCC 39073:present	193
+Selenomonas ruminantium subsp lactilytica TAM6421:present	116
+Selenomonas sputigena ATCC 35185:present	108
+Acidaminococcus fermentans DSM 20731:present	108
+Acidaminococcus intestini RyC MR95:present	97
+Veillonella parvula DSM 2008:present	97
+Megasphaera cerevisiae DSM 20462:present	128
+Megasphaera elsdenii DSM 20460:present	124
+Thermosinus carboxydivorans Nor1:present	199
+Acetonema longum DSM 6540:present	232
+Pelosinus fermentans JBW45:present	267
+Sporomusa ovata DSM 2662:present	231
+Halanaerobium hydrogeniformans:present	120
+Halanaerobium praevalens DSM 2228:present	115
+Halothermothrix orenii H 168:present	187
+Acetohalobium arabaticum DSM 5501:present	190
+Halobacteroides halobius DSM 5150:present	198
+Natranaerobius thermophilus JW NM WN LF:present	198
+Thermosediminibacter oceani DSM 16646:present	175
+Tepidanaerobacter acetatoxydans Re1:present	181
+Caldicellulosiruptor obsidiansis OB47:present	165
+Caldicellulosiruptor owensensis OL:present	158
+Caldicellulosiruptor lactoaceticus 6A:present	155
+Caldicellulosiruptor kristjanssonii I77R1B:present	158
+Caldicellulosiruptor kronotskyensis 2002:present	166
+Caldicellulosiruptor bescii DSM 6725:present	168
+Caldicellulosiruptor hydrothermalis 108:present	165
+Caldicellulosiruptor saccharolyticus DSM 8903:present	165
+Thermoanaerobacterium thermosaccharolyticum DSM 571:present	207
+Thermoanaerobacterium xylanolyticum LX 11:present	203
+Caldanaerobacter subterraneus subsp tengcongensis MB4:present	194
+Thermoanaerobacter italicus Ab9:present	189
+Thermoanaerobacter pseudethanolicus ATCC 33223:present	189
+Thermoanaerobacter brockii subsp finnii Ako 1:present	189
+Thermoanaerobacter wiegelii Rt8B1:present	192
+Mahella australiensis 50 1 BON:present	182
+Acetobacterium woodii DSM 1030:present	130
+Eubacterium limosum KIST612:present	121
+Anaerococcus prevotii DSM 20548:present	86
+Finegoldia magna ATCC 29328:present	86
+Alkaliphilus oremlandii OhILAs:present	200
+Alkaliphilus metalliredigens QYMF:present	230
+Peptoclostridium litorale DSM 5388:present	137
+Clostridium paradoxum DSM 7308:present	180
+Peptoclostridium hiranonis DSM 13275:present	81
+Peptoclostridium mangenotii LM2:present	164
+Peptoclostridium difficile CD196:present	186
+Peptoclostridium difficile 630:present	178
+Peptoclostridium difficile M120:present	186
+Terrisporobacter glycolicus ATCC 14880:present	186
+Paeniclostridium sordellii strain CBA7122:present	176
+Paraclostridium bifermentans ATCC 638:present	189
+Proteocatella sphenisci DSM 23131:present	122
+Filifactor alocis ATCC 35896:present	78
+Eubacterium yurii subsp margaretiae ATCC 43715:present	90
+Ethanoligenens harbinense YUAN 3:present	164
+Oscillibacter valericigenes Sjm18 20:present	165
+Ruminococcus flavefaciens ATCC 19208:present	128
+Ruminococcus bicirculans:present	123
+Ruminococcus albus 7 DSM 20455:present	130
+Clostridium stercorarium subsp stercorarium DSM 8532:present	188
+Clostridium cellulolyticum H10:present	211
+Ruminiclostridium thermocellum ATCC 27405:present	210
+Clostridium clariflavum DSM 19732:present	218
+Mageeibacillus indolicus UPII9 5:present	69
+Epulopiscium sp Nt morphotype B:present	122
+Clostridium lentocellum DSM 5427:present	202
+Coprococcus eutactus ATCC 27759:present	131
+Eubacterium eligens ATCC 27750:present	131
+Lachnoclostridium phytofermentans ISDg:present	176
+Clostridium saccharolyticum WM1:present	194
+Eubacterium rectale ATCC 33656:present	126
+Agathobacter rectalis ATCC 33656:present	126
+Roseburia hominis A2 183:present	154
+Coprococcus comes ATCC 27758:present	120
+Blautia obeum ATCC 29174:present	130
+Clostridium perfringens ATCC 13124:present	193
+Clostridium beijerinckii NCIMB 8052:present	246
+Clostridium saccharoperbutylacetonicum N1 4 HMT:present	241
+Clostridium saccharobutylicum DSM 13864:present	219
+Clostridium novyi NT:present	188
+Clostridium acetobutylicum ATCC 824:present	229
+Clostridium pasteurianum BC1:present	243
+Clostridium kluyveri DSM 555:present	216
+Clostridium ljungdahlii DSM 13528:present	221
+Clostridium autoethanogenum DSM 10061:present	208
+Clostridium botulinum A str ATCC 19397:present	218
+Clostridium tetani 12124569:present	193
+Clostridium cellulovorans 743B:present	217
+Candidatus Arthromitus sp SFB mouse Japan:present	128
+Candidatus Arthromitus sp SFB rat Yit:present	127
+Symbiobacterium thermophilum IAM 14863:present	219
+Thermaerobacter marianensis DSM 12885:present	169
+Azorhizobium caulinodans ORS 571:present	122
+Rhizobium leguminosarum bv viciae 3841:present	124
+Brucella suis ATCC 23445:present	104
+Brucella abortus bv 1 str 9 941:present	106
+Brucella melitensis bv 1 str 16M:present	104
+Neisseria meningitidis MC58:present	75
+Sideroxydans lithotrophicus ES 1:present	96
+Bordetella parapertussis Bpp5:present	111
+Burkholderia pseudomallei NCTC 13179:present	145
+Burkholderia cepacia GG4:present	131
+Legionella pneumophila subsp pneumophila ATCC 43290:present	102
+Vibrio cholerae IEC224:present	109
+Aliivibrio salmonicida LFI1238:present	116
+Photobacterium profundum SS9:present	131
+Haemophilus influenzae Rd KW20:present	86
+Raoultella ornithinolytica B6:present	142
+Escherichia coli O157 H7 str Sakai:present	126
+Shigella flexneri 2a str 301:present	113
+Salmonella enterica subsp enterica serovar Typhimurium str LT2:present	130
+Pseudomonas aeruginosa PAO1:present	138
+Pseudomonas fluorescens Pf0 1:present	142
+Pseudomonas syringae pv syringae B728a:present	134
+Xanthomonas campestris pv campestris str ATCC 33913:present	113
+Desulfovibrio vulgaris DP4:present	104
+Desulfovibrio fairfieldensis strain CCUG 45958:present	93
+Geobacter sulfurreducens PCA:present	119
+Anaeromyxobacter dehalogenans 2CP C:present	125
+Myxococcus xanthus DK 1622:present	138
+Leptotrichia sp oral taxon 212:present	91
+Sebaldella termitidis ATCC 33386:present	121
+Fusobacterium hwasookii ChDC F300:present	88
+Fusobacterium nucleatum subsp nucleatum ATCC 25586:present	85
+Lutibacter sp LP1:present	88
+Capnocytophaga canimorsus Cc5:present	75
+Melioribacter roseus P3M 2:present	99
+Leptospira interrogans serovar Lai str 56601:present	99
+Brachyspira murdochii DSM 12563:present	96
+Brachyspira intermedia PWS A:present	96
+Brachyspira hyodysenteriae WA1:present	94
+Treponema brennaborense DSM 12168:present	87
+Treponema pedis str T A4:present	80
+Campylobacter jejuni subsp jejuni 00 2538:present	72
+Helicobacter pylori UM032:present	66
+Anaerobaculum mobile DSM 13181:present	115
+Thermus thermophilus HB8:present	100
+Desulfurobacterium thermolithotrophum DSM 11699:present	65
+Aquifex aeolicus VF5:present	78
+Dictyoglomus turgidum DSM 6724:present	91
+Dictyoglomus thermophilum H 6 12:present	94
+Kosmotoga olearia TBF 1951:present	92
+Fervidobacterium nodosum Rt17 B1:present	87
+Pseudothermotoga hypogea NBRC 106472:present	94
+Pseudothermotoga elfii NBRC 107921:present	93
+Pseudothermotoga lettingae TMO:present	95
+1:present	133
+2:present	133
+3:present	229
+4:present	77
+5:present	109
+6:present	131
+7:present	138
+8:present	160
+9:present	175
+10:present	202
+11:present	146
+12:present	172
+13:present	215
+14:present	212
+15:present	219
+16:present	229
+17:present	247
+18:present	374
+19:present	476
+20:present	455
+21:present	463
+22:present	479
+23:present	191
+24:present	409
+25:present	159
+26:present	162
+27:present	174
+28:present	137
+29:present	111
+30:present	140
+31:present	99
+32:present	99
+33:present	106
+34:present	112
+35:present	141
+36:present	151
+37:present	162
+38:present	115
+39:present	103
+40:present	100
+41:present	106
+42:present	134
+43:present	141
+44:present	139
+45:present	148
+46:present	148
+47:present	160
+48:present	164
+49:present	183
+50:present	203
+51:present	140
+52:present	140
+53:present	141
+54:present	141
+55:present	175
+56:present	370
+57:present	370
+58:present	409
+59:present	576
+60:present	725
+61:present	613
+62:present	676
+63:present	694
+64:present	658
+65:present	645
+66:present	541
+67:present	423
+68:present	435
+69:present	456
+70:present	465
+71:present	473
+72:present	472
+73:present	472
+74:present	469
+75:present	470
+76:present	473
+77:present	521
+78:present	535
+79:present	548
+80:present	557
+81:present	520
+82:present	440
+83:present	448
+84:present	513
+85:present	505
+86:present	422
+87:present	352
+88:present	393
+89:present	423
+90:present	395
+91:present	415
+92:present	468
+93:present	468
+94:present	451
+95:present	215
+96:present	257
+97:present	264
+98:present	254
+99:present	284
+100:present	295
+101:present	318
+102:present	315
+103:present	188
+104:present	223
+105:present	243
+106:present	257
+107:present	277
+108:present	285
+109:present	308
+110:present	308
+111:present	349
+112:present	216
+113:present	232
+114:present	304
+115:present	348
+116:present	348
+117:present	128
+118:present	121
+119:present	143
+120:present	162
+121:present	173
+122:present	173
+123:present	293
+124:present	292
+125:present	293
+126:present	305
+127:present	380
+128:present	143
+129:present	303
+130:present	243
+131:present	303
+132:present	352
+133:present	240
+134:present	165
+135:present	161
+136:present	168
+137:present	168
+138:present	168
+139:present	169
+140:present	174
+141:present	225
+142:present	189
+143:present	208
+144:present	224
+145:present	235
+146:present	264
+147:present	311
+148:present	308
+149:present	163
+150:present	127
+151:present	279
+152:present	188
+153:present	190
+154:present	205
+155:present	202
+156:present	231
+157:present	273
+158:present	291
+159:present	291
+160:present	319
+161:present	151
+162:present	189
+163:present	319
+164:present	340
+165:present	336
+166:present	342
+167:present	153
+168:present	172
+169:present	258
+170:present	278
+171:present	245
+172:present	293
+173:present	320
+174:present	346
+175:present	346
+176:present	279
+177:present	237
+178:present	126
+179:present	180
+180:present	210
+181:present	219
+182:present	246
+183:present	246
+184:present	253
+185:present	307
+186:present	260
+187:present	268
+188:present	295
+189:present	299
+190:present	219
+191:present	261
+192:present	289
+193:present	297
+194:present	318
+195:present	330
+196:present	337
+197:present	339
+198:present	132
+199:present	352
+200:present	352
+201:present	363
+202:present	363
+203:present	361
+204:present	366
+205:present	380
+206:present	388
+207:present	416
+208:present	320
+209:present	424
+210:present	282
+211:present	109
+212:present	109
+213:present	152
+214:present	180
+215:present	160
+216:present	184
+217:present	211
+218:present	211
+219:present	143
+220:present	147
+221:present	132
+222:present	139
+223:present	159
+224:present	164
+225:present	188
+226:present	154
+227:present	167
+228:present	211
+229:present	214
+230:present	214
+231:present	223
+232:present	230
+233:present	127
+234:present	175
+235:present	215
+236:present	239
+237:present	266
+238:present	137
+239:present	98
+240:present	232
+241:present	103
+242:present	190
+243:present	265
+244:present	107
+245:present	112
+246:present	139
+247:present	191
+248:present	234
+249:present	96
+250:present	234
+251:present	276
+252:present	279
+253:present	282
+254:present	228
+255:present	103
+256:present	96
+257:present	96
+258:present	114
+259:present	122
+260:present	120
+261:present	175
+262:present	212
+263:present	228
+264:present	227
+Nostoc punctiforme PCC 73102:multi	8
+Microcystis aeruginosa NIES 843:multi	3
+Thermosynechococcus elongatus BP 1:multi	3
+Olsenella uli DSM 7084:multi	1
+Gordonibacter pamelaeae 7 10 1 b:multi	2
+Bifidobacterium bifidum PRL2010:multi	2
+Bifidobacterium longum DJO10A:multi	3
+Propionibacterium acnes ATCC 11828:multi	2
+Propionibacterium acidipropionici ATCC 4875:multi	2
+Mycobacterium tuberculosis H37Rv:multi	3
+Mycobacterium marinum M:multi	5
+Mycobacterium avium subsp paratuberculosis K 10:multi	4
+Rhodococcus erythropolis CCM2595:multi	7
+Nocardia brasiliensis ATCC 700358:multi	8
+Nocardia cyriacigeorgica GUH 2:multi	4
+Streptomyces collinus Tu 365:multi	14
+Streptomyces pratensis ATCC 33331:multi	6
+Streptomyces fulvissimus DSM 40593:multi	8
+Kyrpidia tusciae DSM 2912:multi	7
+Alicyclobacillus acidocaldarius subsp acidocaldarius DSM 446:multi	6
+Bacillus cellulosilyticus DSM 2522:multi	5
+Bacillus selenitireducens MLS10:multi	2
+Bacillus halodurans C 125:multi	6
+Bacillus pseudofirmus OF4:multi	7
+Bacillus clausii KSM K16:multi	6
+Exiguobacterium sibiricum 255 15:multi	5
+Exiguobacterium antarcticum B7:multi	5
+Turicibacter sanguinis PC909:multi	8
+Listeria seeligeri serovar 1 2b str SLCC3954:multi	2
+Listeria ivanovii subsp ivanovii PAM 55:multi	2
+Listeria monocytogenes serotype 4b str F2365:multi	2
+Carnobacterium maltaromaticum LMA28:multi	5
+Carnobacterium inhibens subsp gilichinskyi:multi	4
+Aerococcus urinae ACS 120 V Col10a:multi	3
+Lactobacillus casei BL23:multi	7
+Lactobacillus brevis ATCC 367:multi	4
+Lactobacillus plantarum JDM1:multi	4
+Pediococcus pentosaceus ATCC 25745:multi	1
+Pediococcus claussenii ATCC BAA 344:multi	1
+Weissella koreensis KACC 15510:multi	2
+Oenococcus oeni PSU 1:multi	5
+Leuconostoc mesenteroides subsp mesenteroides ATCC 8293:multi	3
+Leuconostoc citreum KM20:multi	2
+Leuconostoc carnosum JB16:multi	2
+Lactococcus lactis subsp lactis KF147:multi	4
+Lactococcus garvieae ATCC 49156:multi	2
+Streptococcus infantarius subsp infantarius CJ18:multi	1
+Streptococcus salivarius CCHSS3:multi	0
+Streptococcus pneumoniae SPN032672:multi	2
+Streptococcus parasanguinis ATCC 15912:multi	1
+Enterococcus faecalis V583:multi	3
+Melissococcus plutonius DAT561:multi	2
+Enterococcus hirae ATCC 9790:multi	2
+Tetragenococcus halophilus NBRC 12172:multi	3
+Enterococcus casseliflavus EC20:multi	3
+Solibacillus silvestris StLB046:multi	13
+Macrococcus caseolyticus JCSC5402:multi	1
+Staphylococcus saprophyticus subsp saprophyticus ATCC 15305:multi	3
+Staphylococcus aureus subsp aureus NCTC 8325:multi	2
+Staphylococcus haemolyticus JCSC1435:multi	3
+Staphylococcus pasteuri SP1:multi	3
+Staphylococcus epidermidis ATCC 12228:multi	3
+Bacillus pumilus SAFR 032:multi	2
+Bacillus licheniformis DSM 13 ATCC 14580:multi	4
+Bacillus paralicheniformis ATCC 9945a:multi	4
+Bacillus subtilis BSn5:multi	10
+Bacillus subtilis subsp subtilis str 168:multi	8
+Bacillus amyloliquefaciens DSM 7:multi	4
+Bacillus methylotrophicus FZB42:multi	4
+Bacillus atrophaeus 1942:multi	4
+Bacillus coagulans 2 6:multi	3
+Bacillus infantis NRRL B 14911:multi	4
+Anoxybacillus flavithermus WK1:multi	2
+Geobacillus thermoglucosidasius C56 YS93:multi	3
+Geobacillus thermodenitrificans NG80 2:multi	3
+Geobacillus thermoleovorans CCB US3 UF5:multi	6
+Geobacillus kaustophilus HTA426:multi	7
+Bacillus cytotoxicus NVH 391 98:multi	5
+Bacillus thuringiensis BMB171:multi	10
+Bacillus anthracis str Ames:multi	8
+Bacillus cereus biovar anthracis str CI:multi	7
+Bacillus cereus ATCC 10987:multi	8
+Bacillus weihenstephanensis KBAB4:multi	7
+Bacillus toyonensis BCT 7112:multi	5
+Bacillus megaterium DSM 319:multi	22
+Amphibacillus xylanus NBRC 15112:multi	5
+Halobacillus halophilus DSM 2266:multi	4
+Oceanobacillus iheyensis HTE831:multi	3
+Paenibacillus mucilaginosus 3016:multi	13
+Paenibacillus larvae subsp larvae DSM 25430:multi	3
+Thermobacillus composti KWC4:multi	2
+Paenibacillus terrae HPL 003:multi	3
+Paenibacillus polymyxa E681:multi	2
+Brevibacillus reuszeri strain DSM 9887:multi	7
+Brevibacillus thermoruber 423:multi	4
+Brevibacillus laterosporus LMG 15441:multi	6
+Thermincola potens JR:multi	3
+Carboxydothermus hydrogenoformans Z 2901:multi	3
+Ammonifex degensii KC4:multi	2
+Candidatus Desulforudis audaxviator MP104C:multi	3
+Desulfotomaculum nigrificans CO 1 SRB:multi	6
+Desulfotomaculum reducens MI 1:multi	5
+Desulfotomaculum ruminis DSM 2154:multi	4
+Desulfotomaculum acetoxidans DSM 771:multi	10
+Desulfotomaculum gibsoniae DSM 7213:multi	10
+Heliobacterium modesticaldum Ice1:multi	5
+Syntrophobotulus glycolicus DSM 8271:multi	5
+Dehalobacter sp CF:multi	4
+Dehalobacter sp DCA:multi	4
+Desulfitobacterium dichloroeliminans LMG P 21439:multi	2
+Desulfitobacterium dehalogenans ATCC 51507:multi	5
+Desulfitobacterium hafniense DCB 2:multi	3
+Desulfosporosinus acidiphilus SJ4:multi	10
+Desulfosporosinus meridiei DSM 13257:multi	2
+Desulfosporosinus orientis DSM 765:multi	8
+Syntrophomonas wolfei subsp wolfei str Goettingen G311:multi	4
+Syntrophothermus lipocalidus DSM 12680:multi	4
+Thermacetogenium phaeum DSM 12270:multi	2
+Moorella thermoacetica ATCC 39073:multi	0
+Selenomonas ruminantium subsp lactilytica TAM6421:multi	5
+Selenomonas sputigena ATCC 35185:multi	2
+Acidaminococcus fermentans DSM 20731:multi	3
+Acidaminococcus intestini RyC MR95:multi	2
+Veillonella parvula DSM 2008:multi	3
+Megasphaera cerevisiae DSM 20462:multi	7
+Megasphaera elsdenii DSM 20460:multi	4
+Thermosinus carboxydivorans Nor1:multi	7
+Acetonema longum DSM 6540:multi	8
+Pelosinus fermentans JBW45:multi	19
+Sporomusa ovata DSM 2662:multi	7
+Halanaerobium hydrogeniformans:multi	4
+Halanaerobium praevalens DSM 2228:multi	5
+Halothermothrix orenii H 168:multi	3
+Acetohalobium arabaticum DSM 5501:multi	2
+Halobacteroides halobius DSM 5150:multi	12
+Natranaerobius thermophilus JW NM WN LF:multi	5
+Thermosediminibacter oceani DSM 16646:multi	1
+Tepidanaerobacter acetatoxydans Re1:multi	3
+Caldicellulosiruptor obsidiansis OB47:multi	3
+Caldicellulosiruptor owensensis OL:multi	3
+Caldicellulosiruptor lactoaceticus 6A:multi	0
+Caldicellulosiruptor kristjanssonii I77R1B:multi	2
+Caldicellulosiruptor kronotskyensis 2002:multi	3
+Caldicellulosiruptor bescii DSM 6725:multi	3
+Caldicellulosiruptor hydrothermalis 108:multi	3
+Caldicellulosiruptor saccharolyticus DSM 8903:multi	4
+Thermoanaerobacterium thermosaccharolyticum DSM 571:multi	4
+Thermoanaerobacterium xylanolyticum LX 11:multi	2
+Caldanaerobacter subterraneus subsp tengcongensis MB4:multi	4
+Thermoanaerobacter italicus Ab9:multi	1
+Thermoanaerobacter pseudethanolicus ATCC 33223:multi	1
+Thermoanaerobacter brockii subsp finnii Ako 1:multi	1
+Thermoanaerobacter wiegelii Rt8B1:multi	1
+Mahella australiensis 50 1 BON:multi	1
+Acetobacterium woodii DSM 1030:multi	2
+Eubacterium limosum KIST612:multi	7
+Anaerococcus prevotii DSM 20548:multi	1
+Finegoldia magna ATCC 29328:multi	0
+Alkaliphilus oremlandii OhILAs:multi	3
+Alkaliphilus metalliredigens QYMF:multi	7
+Peptoclostridium litorale DSM 5388:multi	12
+Clostridium paradoxum DSM 7308:multi	2
+Peptoclostridium hiranonis DSM 13275:multi	0
+Peptoclostridium mangenotii LM2:multi	2
+Peptoclostridium difficile CD196:multi	5
+Peptoclostridium difficile 630:multi	5
+Peptoclostridium difficile M120:multi	5
+Terrisporobacter glycolicus ATCC 14880:multi	10
+Paeniclostridium sordellii strain CBA7122:multi	3
+Paraclostridium bifermentans ATCC 638:multi	2
+Proteocatella sphenisci DSM 23131:multi	2
+Filifactor alocis ATCC 35896:multi	0
+Eubacterium yurii subsp margaretiae ATCC 43715:multi	1
+Ethanoligenens harbinense YUAN 3:multi	5
+Oscillibacter valericigenes Sjm18 20:multi	3
+Ruminococcus flavefaciens ATCC 19208:multi	5
+Ruminococcus bicirculans:multi	4
+Ruminococcus albus 7 DSM 20455:multi	2
+Clostridium stercorarium subsp stercorarium DSM 8532:multi	2
+Clostridium cellulolyticum H10:multi	2
+Ruminiclostridium thermocellum ATCC 27405:multi	3
+Clostridium clariflavum DSM 19732:multi	7
+Mageeibacillus indolicus UPII9 5:multi	1
+Epulopiscium sp Nt morphotype B:multi	3
+Clostridium lentocellum DSM 5427:multi	6
+Coprococcus eutactus ATCC 27759:multi	3
+Eubacterium eligens ATCC 27750:multi	2
+Lachnoclostridium phytofermentans ISDg:multi	3
+Clostridium saccharolyticum WM1:multi	7
+Eubacterium rectale ATCC 33656:multi	2
+Agathobacter rectalis ATCC 33656:multi	2
+Roseburia hominis A2 183:multi	5
+Coprococcus comes ATCC 27758:multi	5
+Blautia obeum ATCC 29174:multi	2
+Clostridium perfringens ATCC 13124:multi	10
+Clostridium beijerinckii NCIMB 8052:multi	14
+Clostridium saccharoperbutylacetonicum N1 4 HMT:multi	11
+Clostridium saccharobutylicum DSM 13864:multi	10
+Clostridium novyi NT:multi	9
+Clostridium acetobutylicum ATCC 824:multi	5
+Clostridium pasteurianum BC1:multi	20
+Clostridium kluyveri DSM 555:multi	4
+Clostridium ljungdahlii DSM 13528:multi	8
+Clostridium autoethanogenum DSM 10061:multi	6
+Clostridium botulinum A str ATCC 19397:multi	5
+Clostridium tetani 12124569:multi	6
+Clostridium cellulovorans 743B:multi	8
+Candidatus Arthromitus sp SFB mouse Japan:multi	2
+Candidatus Arthromitus sp SFB rat Yit:multi	2
+Symbiobacterium thermophilum IAM 14863:multi	9
+Thermaerobacter marianensis DSM 12885:multi	1
+Azorhizobium caulinodans ORS 571:multi	6
+Rhizobium leguminosarum bv viciae 3841:multi	2
+Brucella suis ATCC 23445:multi	1
+Brucella abortus bv 1 str 9 941:multi	1
+Brucella melitensis bv 1 str 16M:multi	1
+Neisseria meningitidis MC58:multi	4
+Sideroxydans lithotrophicus ES 1:multi	3
+Bordetella parapertussis Bpp5:multi	3
+Burkholderia pseudomallei NCTC 13179:multi	3
+Burkholderia cepacia GG4:multi	6
+Legionella pneumophila subsp pneumophila ATCC 43290:multi	0
+Vibrio cholerae IEC224:multi	1
+Aliivibrio salmonicida LFI1238:multi	5
+Photobacterium profundum SS9:multi	6
+Haemophilus influenzae Rd KW20:multi	0
+Raoultella ornithinolytica B6:multi	6
+Escherichia coli O157 H7 str Sakai:multi	2
+Shigella flexneri 2a str 301:multi	3
+Salmonella enterica subsp enterica serovar Typhimurium str LT2:multi	6
+Pseudomonas aeruginosa PAO1:multi	6
+Pseudomonas fluorescens Pf0 1:multi	6
+Pseudomonas syringae pv syringae B728a:multi	1
+Xanthomonas campestris pv campestris str ATCC 33913:multi	2
+Desulfovibrio vulgaris DP4:multi	1
+Desulfovibrio fairfieldensis strain CCUG 45958:multi	1
+Geobacter sulfurreducens PCA:multi	7
+Anaeromyxobacter dehalogenans 2CP C:multi	5
+Myxococcus xanthus DK 1622:multi	1
+Leptotrichia sp oral taxon 212:multi	3
+Sebaldella termitidis ATCC 33386:multi	5
+Fusobacterium hwasookii ChDC F300:multi	3
+Fusobacterium nucleatum subsp nucleatum ATCC 25586:multi	1
+Lutibacter sp LP1:multi	1
+Capnocytophaga canimorsus Cc5:multi	1
+Melioribacter roseus P3M 2:multi	2
+Leptospira interrogans serovar Lai str 56601:multi	2
+Brachyspira murdochii DSM 12563:multi	1
+Brachyspira intermedia PWS A:multi	3
+Brachyspira hyodysenteriae WA1:multi	3
+Treponema brennaborense DSM 12168:multi	2
+Treponema pedis str T A4:multi	1
+Campylobacter jejuni subsp jejuni 00 2538:multi	1
+Helicobacter pylori UM032:multi	0
+Anaerobaculum mobile DSM 13181:multi	0
+Thermus thermophilus HB8:multi	0
+Desulfurobacterium thermolithotrophum DSM 11699:multi	2
+Aquifex aeolicus VF5:multi	3
+Dictyoglomus turgidum DSM 6724:multi	2
+Dictyoglomus thermophilum H 6 12:multi	1
+Kosmotoga olearia TBF 1951:multi	1
+Fervidobacterium nodosum Rt17 B1:multi	1
+Pseudothermotoga hypogea NBRC 106472:multi	2
+Pseudothermotoga elfii NBRC 107921:multi	2
+Pseudothermotoga lettingae TMO:multi	2
+1:multi	5
+2:multi	5
+3:multi	22
+4:multi	1
+5:multi	2
+6:multi	5
+7:multi	6
+8:multi	7
+9:multi	11
+10:multi	17
+11:multi	7
+12:multi	10
+13:multi	20
+14:multi	18
+15:multi	19
+16:multi	22
+17:multi	26
+18:multi	12
+19:multi	7
+20:multi	4
+21:multi	4
+22:multi	4
+23:multi	5
+24:multi	24
+25:multi	2
+26:multi	2
+27:multi	5
+28:multi	4
+29:multi	1
+30:multi	4
+31:multi	3
+32:multi	3
+33:multi	3
+34:multi	3
+35:multi	4
+36:multi	4
+37:multi	5
+38:multi	5
+39:multi	2
+40:multi	2
+41:multi	3
+42:multi	5
+43:multi	3
+44:multi	3
+45:multi	3
+46:multi	3
+47:multi	5
+48:multi	5
+49:multi	5
+50:multi	6
+51:multi	2
+52:multi	2
+53:multi	2
+54:multi	2
+55:multi	4
+56:multi	20
+57:multi	20
+58:multi	24
+59:multi	4
+60:multi	8
+61:multi	3
+62:multi	4
+63:multi	4
+64:multi	4
+65:multi	3
+66:multi	4
+67:multi	6
+68:multi	3
+69:multi	3
+70:multi	3
+71:multi	8
+72:multi	8
+73:multi	9
+74:multi	7
+75:multi	7
+76:multi	5
+77:multi	4
+78:multi	4
+79:multi	4
+80:multi	4
+81:multi	4
+82:multi	3
+83:multi	3
+84:multi	4
+85:multi	4
+86:multi	8
+87:multi	2
+88:multi	3
+89:multi	6
+90:multi	6
+91:multi	6
+92:multi	10
+93:multi	10
+94:multi	22
+95:multi	2
+96:multi	5
+97:multi	5
+98:multi	5
+99:multi	4
+100:multi	4
+101:multi	7
+102:multi	6
+103:multi	4
+104:multi	4
+105:multi	3
+106:multi	2
+107:multi	4
+108:multi	5
+109:multi	7
+110:multi	7
+111:multi	11
+112:multi	6
+113:multi	3
+114:multi	8
+115:multi	10
+116:multi	10
+117:multi	4
+118:multi	2
+119:multi	5
+120:multi	3
+121:multi	4
+122:multi	3
+123:multi	12
+124:multi	12
+125:multi	12
+126:multi	14
+127:multi	17
+128:multi	2
+129:multi	12
+130:multi	8
+131:multi	12
+132:multi	18
+133:multi	4
+134:multi	3
+135:multi	2
+136:multi	3
+137:multi	3
+138:multi	3
+139:multi	3
+140:multi	3
+141:multi	3
+142:multi	1
+143:multi	1
+144:multi	2
+145:multi	3
+146:multi	5
+147:multi	12
+148:multi	12
+149:multi	5
+150:multi	2
+151:multi	14
+152:multi	5
+153:multi	5
+154:multi	6
+155:multi	4
+156:multi	9
+157:multi	15
+158:multi	19
+159:multi	19
+160:multi	25
+161:multi	4
+162:multi	8
+163:multi	25
+164:multi	26
+165:multi	25
+166:multi	26
+167:multi	3
+168:multi	4
+169:multi	9
+170:multi	12
+171:multi	5
+172:multi	10
+173:multi	15
+174:multi	21
+175:multi	21
+176:multi	14
+177:multi	9
+178:multi	2
+179:multi	4
+180:multi	7
+181:multi	8
+182:multi	10
+183:multi	10
+184:multi	11
+185:multi	18
+186:multi	13
+187:multi	13
+188:multi	15
+189:multi	14
+190:multi	6
+191:multi	8
+192:multi	11
+193:multi	13
+194:multi	18
+195:multi	21
+196:multi	22
+197:multi	20
+198:multi	2
+199:multi	23
+200:multi	22
+201:multi	24
+202:multi	24
+203:multi	19
+204:multi	19
+205:multi	22
+206:multi	19
+207:multi	27
+208:multi	14
+209:multi	40
+210:multi	34
+211:multi	1
+212:multi	1
+213:multi	5
+214:multi	8
+215:multi	6
+216:multi	8
+217:multi	14
+218:multi	14
+219:multi	3
+220:multi	3
+221:multi	4
+222:multi	6
+223:multi	9
+224:multi	4
+225:multi	8
+226:multi	4
+227:multi	5
+228:multi	13
+229:multi	14
+230:multi	14
+231:multi	17
+232:multi	19
+233:multi	1
+234:multi	7
+235:multi	14
+236:multi	20
+237:multi	29
+238:multi	6
+239:multi	2
+240:multi	28
+241:multi	2
+242:multi	11
+243:multi	30
+244:multi	4
+245:multi	2
+246:multi	4
+247:multi	12
+248:multi	22
+249:multi	1
+250:multi	22
+251:multi	33
+252:multi	34
+253:multi	34
+254:multi	17
+255:multi	2
+256:multi	1
+257:multi	2
+258:multi	3
+259:multi	4
+260:multi	3
+261:multi	8
+262:multi	14
+263:multi	17
+264:multi	17
+Nostoc punctiforme PCC 73102:gain	13
+Microcystis aeruginosa NIES 843:gain	2
+Thermosynechococcus elongatus BP 1:gain	3
+Olsenella uli DSM 7084:gain	1
+Gordonibacter pamelaeae 7 10 1 b:gain	4
+Bifidobacterium bifidum PRL2010:gain	2
+Bifidobacterium longum DJO10A:gain	0
+Propionibacterium acnes ATCC 11828:gain	3
+Propionibacterium acidipropionici ATCC 4875:gain	0
+Mycobacterium tuberculosis H37Rv:gain	4
+Mycobacterium marinum M:gain	0
+Mycobacterium avium subsp paratuberculosis K 10:gain	1
+Rhodococcus erythropolis CCM2595:gain	0
+Nocardia brasiliensis ATCC 700358:gain	7
+Nocardia cyriacigeorgica GUH 2:gain	0
+Streptomyces collinus Tu 365:gain	7
+Streptomyces pratensis ATCC 33331:gain	4
+Streptomyces fulvissimus DSM 40593:gain	4
+Kyrpidia tusciae DSM 2912:gain	5
+Alicyclobacillus acidocaldarius subsp acidocaldarius DSM 446:gain	4
+Bacillus cellulosilyticus DSM 2522:gain	7
+Bacillus selenitireducens MLS10:gain	4
+Bacillus halodurans C 125:gain	8
+Bacillus pseudofirmus OF4:gain	5
+Bacillus clausii KSM K16:gain	23
+Exiguobacterium sibiricum 255 15:gain	0
+Exiguobacterium antarcticum B7:gain	2
+Turicibacter sanguinis PC909:gain	2
+Listeria seeligeri serovar 1 2b str SLCC3954:gain	3
+Listeria ivanovii subsp ivanovii PAM 55:gain	0
+Listeria monocytogenes serotype 4b str F2365:gain	1
+Carnobacterium maltaromaticum LMA28:gain	12
+Carnobacterium inhibens subsp gilichinskyi:gain	7
+Aerococcus urinae ACS 120 V Col10a:gain	10
+Lactobacillus casei BL23:gain	0
+Lactobacillus brevis ATCC 367:gain	4
+Lactobacillus plantarum JDM1:gain	9
+Pediococcus pentosaceus ATCC 25745:gain	3
+Pediococcus claussenii ATCC BAA 344:gain	1
+Weissella koreensis KACC 15510:gain	2
+Oenococcus oeni PSU 1:gain	3
+Leuconostoc mesenteroides subsp mesenteroides ATCC 8293:gain	2
+Leuconostoc citreum KM20:gain	1
+Leuconostoc carnosum JB16:gain	0
+Lactococcus lactis subsp lactis KF147:gain	0
+Lactococcus garvieae ATCC 49156:gain	1
+Streptococcus infantarius subsp infantarius CJ18:gain	6
+Streptococcus salivarius CCHSS3:gain	1
+Streptococcus pneumoniae SPN032672:gain	6
+Streptococcus parasanguinis ATCC 15912:gain	4
+Enterococcus faecalis V583:gain	6
+Melissococcus plutonius DAT561:gain	1
+Enterococcus hirae ATCC 9790:gain	2
+Tetragenococcus halophilus NBRC 12172:gain	5
+Enterococcus casseliflavus EC20:gain	3
+Solibacillus silvestris StLB046:gain	0
+Macrococcus caseolyticus JCSC5402:gain	3
+Staphylococcus saprophyticus subsp saprophyticus ATCC 15305:gain	11
+Staphylococcus aureus subsp aureus NCTC 8325:gain	4
+Staphylococcus haemolyticus JCSC1435:gain	9
+Staphylococcus pasteuri SP1:gain	4
+Staphylococcus epidermidis ATCC 12228:gain	4
+Bacillus pumilus SAFR 032:gain	0
+Bacillus licheniformis DSM 13 ATCC 14580:gain	1
+Bacillus paralicheniformis ATCC 9945a:gain	0
+Bacillus subtilis BSn5:gain	0
+Bacillus subtilis subsp subtilis str 168:gain	0
+Bacillus amyloliquefaciens DSM 7:gain	0
+Bacillus methylotrophicus FZB42:gain	2
+Bacillus atrophaeus 1942:gain	0
+Bacillus coagulans 2 6:gain	9
+Bacillus infantis NRRL B 14911:gain	12
+Anoxybacillus flavithermus WK1:gain	2
+Geobacillus thermoglucosidasius C56 YS93:gain	8
+Geobacillus thermodenitrificans NG80 2:gain	6
+Geobacillus thermoleovorans CCB US3 UF5:gain	1
+Geobacillus kaustophilus HTA426:gain	4
+Bacillus cytotoxicus NVH 391 98:gain	13
+Bacillus thuringiensis BMB171:gain	6
+Bacillus anthracis str Ames:gain	0
+Bacillus cereus biovar anthracis str CI:gain	3
+Bacillus cereus ATCC 10987:gain	6
+Bacillus weihenstephanensis KBAB4:gain	8
+Bacillus toyonensis BCT 7112:gain	2
+Bacillus megaterium DSM 319:gain	31
+Amphibacillus xylanus NBRC 15112:gain	0
+Halobacillus halophilus DSM 2266:gain	22
+Oceanobacillus iheyensis HTE831:gain	12
+Paenibacillus mucilaginosus 3016:gain	23
+Paenibacillus larvae subsp larvae DSM 25430:gain	0
+Thermobacillus composti KWC4:gain	10
+Paenibacillus terrae HPL 003:gain	7
+Paenibacillus polymyxa E681:gain	0
+Brevibacillus reuszeri strain DSM 9887:gain	22
+Brevibacillus thermoruber 423:gain	10
+Brevibacillus laterosporus LMG 15441:gain	10
+Thermincola potens JR:gain	5
+Carboxydothermus hydrogenoformans Z 2901:gain	1
+Ammonifex degensii KC4:gain	0
+Candidatus Desulforudis audaxviator MP104C:gain	3
+Desulfotomaculum nigrificans CO 1 SRB:gain	5
+Desulfotomaculum reducens MI 1:gain	7
+Desulfotomaculum ruminis DSM 2154:gain	12
+Desulfotomaculum acetoxidans DSM 771:gain	9
+Desulfotomaculum gibsoniae DSM 7213:gain	17
+Heliobacterium modesticaldum Ice1:gain	5
+Syntrophobotulus glycolicus DSM 8271:gain	7
+Dehalobacter sp CF:gain	0
+Dehalobacter sp DCA:gain	0
+Desulfitobacterium dichloroeliminans LMG P 21439:gain	3
+Desulfitobacterium dehalogenans ATCC 51507:gain	2
+Desulfitobacterium hafniense DCB 2:gain	4
+Desulfosporosinus acidiphilus SJ4:gain	7
+Desulfosporosinus meridiei DSM 13257:gain	6
+Desulfosporosinus orientis DSM 765:gain	10
+Syntrophomonas wolfei subsp wolfei str Goettingen G311:gain	2
+Syntrophothermus lipocalidus DSM 12680:gain	0
+Thermacetogenium phaeum DSM 12270:gain	0
+Moorella thermoacetica ATCC 39073:gain	0
+Selenomonas ruminantium subsp lactilytica TAM6421:gain	7
+Selenomonas sputigena ATCC 35185:gain	7
+Acidaminococcus fermentans DSM 20731:gain	1
+Acidaminococcus intestini RyC MR95:gain	1
+Veillonella parvula DSM 2008:gain	0
+Megasphaera cerevisiae DSM 20462:gain	6
+Megasphaera elsdenii DSM 20460:gain	0
+Thermosinus carboxydivorans Nor1:gain	0
+Acetonema longum DSM 6540:gain	4
+Pelosinus fermentans JBW45:gain	4
+Sporomusa ovata DSM 2662:gain	8
+Halanaerobium hydrogeniformans:gain	0
+Halanaerobium praevalens DSM 2228:gain	3
+Halothermothrix orenii H 168:gain	0
+Acetohalobium arabaticum DSM 5501:gain	6
+Halobacteroides halobius DSM 5150:gain	5
+Natranaerobius thermophilus JW NM WN LF:gain	0
+Thermosediminibacter oceani DSM 16646:gain	2
+Tepidanaerobacter acetatoxydans Re1:gain	1
+Caldicellulosiruptor obsidiansis OB47:gain	2
+Caldicellulosiruptor owensensis OL:gain	1
+Caldicellulosiruptor lactoaceticus 6A:gain	0
+Caldicellulosiruptor kristjanssonii I77R1B:gain	1
+Caldicellulosiruptor kronotskyensis 2002:gain	2
+Caldicellulosiruptor bescii DSM 6725:gain	5
+Caldicellulosiruptor hydrothermalis 108:gain	5
+Caldicellulosiruptor saccharolyticus DSM 8903:gain	3
+Thermoanaerobacterium thermosaccharolyticum DSM 571:gain	0
+Thermoanaerobacterium xylanolyticum LX 11:gain	7
+Caldanaerobacter subterraneus subsp tengcongensis MB4:gain	2
+Thermoanaerobacter italicus Ab9:gain	0
+Thermoanaerobacter pseudethanolicus ATCC 33223:gain	0
+Thermoanaerobacter brockii subsp finnii Ako 1:gain	0
+Thermoanaerobacter wiegelii Rt8B1:gain	2
+Mahella australiensis 50 1 BON:gain	5
+Acetobacterium woodii DSM 1030:gain	0
+Eubacterium limosum KIST612:gain	5
+Anaerococcus prevotii DSM 20548:gain	4
+Finegoldia magna ATCC 29328:gain	3
+Alkaliphilus oremlandii OhILAs:gain	0
+Alkaliphilus metalliredigens QYMF:gain	8
+Peptoclostridium litorale DSM 5388:gain	6
+Clostridium paradoxum DSM 7308:gain	5
+Peptoclostridium hiranonis DSM 13275:gain	0
+Peptoclostridium mangenotii LM2:gain	4
+Peptoclostridium difficile CD196:gain	2
+Peptoclostridium difficile 630:gain	0
+Peptoclostridium difficile M120:gain	0
+Terrisporobacter glycolicus ATCC 14880:gain	0
+Paeniclostridium sordellii strain CBA7122:gain	3
+Paraclostridium bifermentans ATCC 638:gain	0
+Proteocatella sphenisci DSM 23131:gain	7
+Filifactor alocis ATCC 35896:gain	3
+Eubacterium yurii subsp margaretiae ATCC 43715:gain	0
+Ethanoligenens harbinense YUAN 3:gain	4
+Oscillibacter valericigenes Sjm18 20:gain	7
+Ruminococcus flavefaciens ATCC 19208:gain	2
+Ruminococcus bicirculans:gain	3
+Ruminococcus albus 7 DSM 20455:gain	0
+Clostridium stercorarium subsp stercorarium DSM 8532:gain	0
+Clostridium cellulolyticum H10:gain	4
+Ruminiclostridium thermocellum ATCC 27405:gain	2
+Clostridium clariflavum DSM 19732:gain	5
+Mageeibacillus indolicus UPII9 5:gain	3
+Epulopiscium sp Nt morphotype B:gain	0
+Clostridium lentocellum DSM 5427:gain	7
+Coprococcus eutactus ATCC 27759:gain	1
+Eubacterium eligens ATCC 27750:gain	1
+Lachnoclostridium phytofermentans ISDg:gain	5
+Clostridium saccharolyticum WM1:gain	2
+Eubacterium rectale ATCC 33656:gain	0
+Agathobacter rectalis ATCC 33656:gain	0
+Roseburia hominis A2 183:gain	1
+Coprococcus comes ATCC 27758:gain	0
+Blautia obeum ATCC 29174:gain	2
+Clostridium perfringens ATCC 13124:gain	1
+Clostridium beijerinckii NCIMB 8052:gain	3
+Clostridium saccharoperbutylacetonicum N1 4 HMT:gain	9
+Clostridium saccharobutylicum DSM 13864:gain	5
+Clostridium novyi NT:gain	1
+Clostridium acetobutylicum ATCC 824:gain	6
+Clostridium pasteurianum BC1:gain	9
+Clostridium kluyveri DSM 555:gain	2
+Clostridium ljungdahlii DSM 13528:gain	4
+Clostridium autoethanogenum DSM 10061:gain	2
+Clostridium botulinum A str ATCC 19397:gain	7
+Clostridium tetani 12124569:gain	10
+Clostridium cellulovorans 743B:gain	0
+Candidatus Arthromitus sp SFB mouse Japan:gain	0
+Candidatus Arthromitus sp SFB rat Yit:gain	1
+Symbiobacterium thermophilum IAM 14863:gain	3
+Thermaerobacter marianensis DSM 12885:gain	0
+Azorhizobium caulinodans ORS 571:gain	5
+Rhizobium leguminosarum bv viciae 3841:gain	2
+Brucella suis ATCC 23445:gain	0
+Brucella abortus bv 1 str 9 941:gain	2
+Brucella melitensis bv 1 str 16M:gain	2
+Neisseria meningitidis MC58:gain	0
+Sideroxydans lithotrophicus ES 1:gain	0
+Bordetella parapertussis Bpp5:gain	7
+Burkholderia pseudomallei NCTC 13179:gain	6
+Burkholderia cepacia GG4:gain	4
+Legionella pneumophila subsp pneumophila ATCC 43290:gain	7
+Vibrio cholerae IEC224:gain	2
+Aliivibrio salmonicida LFI1238:gain	2
+Photobacterium profundum SS9:gain	10
+Haemophilus influenzae Rd KW20:gain	7
+Raoultella ornithinolytica B6:gain	4
+Escherichia coli O157 H7 str Sakai:gain	2
+Shigella flexneri 2a str 301:gain	0
+Salmonella enterica subsp enterica serovar Typhimurium str LT2:gain	0
+Pseudomonas aeruginosa PAO1:gain	4
+Pseudomonas fluorescens Pf0 1:gain	0
+Pseudomonas syringae pv syringae B728a:gain	3
+Xanthomonas campestris pv campestris str ATCC 33913:gain	4
+Desulfovibrio vulgaris DP4:gain	2
+Desulfovibrio fairfieldensis strain CCUG 45958:gain	6
+Geobacter sulfurreducens PCA:gain	3
+Anaeromyxobacter dehalogenans 2CP C:gain	2
+Myxococcus xanthus DK 1622:gain	7
+Leptotrichia sp oral taxon 212:gain	5
+Sebaldella termitidis ATCC 33386:gain	5
+Fusobacterium hwasookii ChDC F300:gain	0
+Fusobacterium nucleatum subsp nucleatum ATCC 25586:gain	0
+Lutibacter sp LP1:gain	0
+Capnocytophaga canimorsus Cc5:gain	2
+Melioribacter roseus P3M 2:gain	1
+Leptospira interrogans serovar Lai str 56601:gain	7
+Brachyspira murdochii DSM 12563:gain	0
+Brachyspira intermedia PWS A:gain	0
+Brachyspira hyodysenteriae WA1:gain	0
+Treponema brennaborense DSM 12168:gain	2
+Treponema pedis str T A4:gain	0
+Campylobacter jejuni subsp jejuni 00 2538:gain	4
+Helicobacter pylori UM032:gain	1
+Anaerobaculum mobile DSM 13181:gain	6
+Thermus thermophilus HB8:gain	3
+Desulfurobacterium thermolithotrophum DSM 11699:gain	0
+Aquifex aeolicus VF5:gain	5
+Dictyoglomus turgidum DSM 6724:gain	1
+Dictyoglomus thermophilum H 6 12:gain	0
+Kosmotoga olearia TBF 1951:gain	3
+Fervidobacterium nodosum Rt17 B1:gain	0
+Pseudothermotoga hypogea NBRC 106472:gain	0
+Pseudothermotoga elfii NBRC 107921:gain	1
+Pseudothermotoga lettingae TMO:gain	1
+1:gain	0
+2:gain	0
+3:gain	0
+4:gain	0
+5:gain	1
+6:gain	0
+7:gain	0
+8:gain	0
+9:gain	0
+10:gain	5
+11:gain	0
+12:gain	0
+13:gain	3
+14:gain	0
+15:gain	6
+16:gain	0
+17:gain	0
+18:gain	0
+19:gain	0
+20:gain	0
+21:gain	4
+22:gain	0
+23:gain	0
+24:gain	0
+25:gain	0
+26:gain	0
+27:gain	0
+28:gain	0
+29:gain	0
+30:gain	0
+31:gain	2
+32:gain	2
+33:gain	1
+34:gain	0
+35:gain	0
+36:gain	0
+37:gain	0
+38:gain	1
+39:gain	1
+40:gain	2
+41:gain	3
+42:gain	0
+43:gain	0
+44:gain	0
+45:gain	0
+46:gain	0
+47:gain	7
+48:gain	0
+49:gain	4
+50:gain	15
+51:gain	0
+52:gain	3
+53:gain	0
+54:gain	1
+55:gain	0
+56:gain	0
+57:gain	0
+58:gain	6
+59:gain	0
+60:gain	32
+61:gain	0
+62:gain	0
+63:gain	36
+64:gain	12
+65:gain	90
+66:gain	0
+67:gain	7
+68:gain	3
+69:gain	3
+70:gain	4
+71:gain	4
+72:gain	1
+73:gain	2
+74:gain	0
+75:gain	9
+76:gain	7
+77:gain	7
+78:gain	0
+79:gain	0
+80:gain	40
+81:gain	7
+82:gain	0
+83:gain	0
+84:gain	9
+85:gain	55
+86:gain	12
+87:gain	2
+88:gain	0
+89:gain	3
+90:gain	3
+91:gain	0
+92:gain	0
+93:gain	27
+94:gain	44
+95:gain	0
+96:gain	0
+97:gain	0
+98:gain	4
+99:gain	0
+100:gain	0
+101:gain	3
+102:gain	0
+103:gain	4
+104:gain	0
+105:gain	0
+106:gain	0
+107:gain	0
+108:gain	6
+109:gain	0
+110:gain	8
+111:gain	4
+112:gain	0
+113:gain	0
+114:gain	2
+115:gain	0
+116:gain	0
+117:gain	0
+118:gain	7
+119:gain	0
+120:gain	0
+121:gain	3
+122:gain	0
+123:gain	2
+124:gain	4
+125:gain	0
+126:gain	0
+127:gain	0
+128:gain	0
+129:gain	0
+130:gain	0
+131:gain	0
+132:gain	0
+133:gain	3
+134:gain	0
+135:gain	1
+136:gain	3
+137:gain	2
+138:gain	0
+139:gain	0
+140:gain	0
+141:gain	1
+142:gain	1
+143:gain	0
+144:gain	0
+145:gain	0
+146:gain	1
+147:gain	3
+148:gain	0
+149:gain	0
+150:gain	0
+151:gain	7
+152:gain	0
+153:gain	4
+154:gain	5
+155:gain	0
+156:gain	0
+157:gain	0
+158:gain	0
+159:gain	0
+160:gain	0
+161:gain	0
+162:gain	3
+163:gain	7
+164:gain	5
+165:gain	0
+166:gain	0
+167:gain	0
+168:gain	0
+169:gain	0
+170:gain	0
+171:gain	0
+172:gain	0
+173:gain	5
+174:gain	0
+175:gain	0
+176:gain	0
+177:gain	0
+178:gain	3
+179:gain	1
+180:gain	4
+181:gain	3
+182:gain	0
+183:gain	0
+184:gain	0
+185:gain	6
+186:gain	0
+187:gain	4
+188:gain	0
+189:gain	0
+190:gain	11
+191:gain	0
+192:gain	0
+193:gain	0
+194:gain	0
+195:gain	1
+196:gain	6
+197:gain	0
+198:gain	1
+199:gain	4
+200:gain	0
+201:gain	0
+202:gain	10
+203:gain	4
+204:gain	0
+205:gain	0
+206:gain	0
+207:gain	0
+208:gain	0
+209:gain	153
+210:gain	0
+211:gain	0
+212:gain	3
+213:gain	0
+214:gain	0
+215:gain	0
+216:gain	0
+217:gain	0
+218:gain	0
+219:gain	0
+220:gain	0
+221:gain	0
+222:gain	3
+223:gain	0
+224:gain	3
+225:gain	3
+226:gain	0
+227:gain	2
+228:gain	0
+229:gain	0
+230:gain	0
+231:gain	3
+232:gain	0
+233:gain	0
+234:gain	2
+235:gain	0
+236:gain	0
+237:gain	0
+238:gain	0
+239:gain	2
+240:gain	13
+241:gain	0
+242:gain	0
+243:gain	0
+244:gain	0
+245:gain	1
+246:gain	0
+247:gain	0
+248:gain	0
+249:gain	3
+250:gain	0
+251:gain	0
+252:gain	0
+253:gain	56
+254:gain	0
+255:gain	0
+256:gain	0
+257:gain	0
+258:gain	0
+259:gain	3
+260:gain	0
+261:gain	0
+262:gain	2
+263:gain	2
+Nostoc punctiforme PCC 73102:loss	29
+Microcystis aeruginosa NIES 843:loss	39
+Thermosynechococcus elongatus BP 1:loss	52
+Olsenella uli DSM 7084:loss	161
+Gordonibacter pamelaeae 7 10 1 b:loss	175
+Bifidobacterium bifidum PRL2010:loss	19
+Bifidobacterium longum DJO10A:loss	10
+Propionibacterium acnes ATCC 11828:loss	30
+Propionibacterium acidipropionici ATCC 4875:loss	18
+Mycobacterium tuberculosis H37Rv:loss	27
+Mycobacterium marinum M:loss	4
+Mycobacterium avium subsp paratuberculosis K 10:loss	27
+Rhodococcus erythropolis CCM2595:loss	47
+Nocardia brasiliensis ATCC 700358:loss	19
+Nocardia cyriacigeorgica GUH 2:loss	38
+Streptomyces collinus Tu 365:loss	39
+Streptomyces pratensis ATCC 33331:loss	13
+Streptomyces fulvissimus DSM 40593:loss	20
+Kyrpidia tusciae DSM 2912:loss	110
+Alicyclobacillus acidocaldarius subsp acidocaldarius DSM 446:loss	119
+Bacillus cellulosilyticus DSM 2522:loss	97
+Bacillus selenitireducens MLS10:loss	298
+Bacillus halodurans C 125:loss	59
+Bacillus pseudofirmus OF4:loss	60
+Bacillus clausii KSM K16:loss	74
+Exiguobacterium sibiricum 255 15:loss	1
+Exiguobacterium antarcticum B7:loss	10
+Turicibacter sanguinis PC909:loss	231
+Listeria seeligeri serovar 1 2b str SLCC3954:loss	3
+Listeria ivanovii subsp ivanovii PAM 55:loss	9
+Listeria monocytogenes serotype 4b str F2365:loss	7
+Carnobacterium maltaromaticum LMA28:loss	28
+Carnobacterium inhibens subsp gilichinskyi:loss	43
+Aerococcus urinae ACS 120 V Col10a:loss	86
+Lactobacillus casei BL23:loss	29
+Lactobacillus brevis ATCC 367:loss	32
+Lactobacillus plantarum JDM1:loss	10
+Pediococcus pentosaceus ATCC 25745:loss	16
+Pediococcus claussenii ATCC BAA 344:loss	10
+Weissella koreensis KACC 15510:loss	39
+Oenococcus oeni PSU 1:loss	16
+Leuconostoc mesenteroides subsp mesenteroides ATCC 8293:loss	6
+Leuconostoc citreum KM20:loss	6
+Leuconostoc carnosum JB16:loss	13
+Lactococcus lactis subsp lactis KF147:loss	10
+Lactococcus garvieae ATCC 49156:loss	26
+Streptococcus infantarius subsp infantarius CJ18:loss	23
+Streptococcus salivarius CCHSS3:loss	19
+Streptococcus pneumoniae SPN032672:loss	15
+Streptococcus parasanguinis ATCC 15912:loss	15
+Enterococcus faecalis V583:loss	21
+Melissococcus plutonius DAT561:loss	54
+Enterococcus hirae ATCC 9790:loss	37
+Tetragenococcus halophilus NBRC 12172:loss	34
+Enterococcus casseliflavus EC20:loss	15
+Solibacillus silvestris StLB046:loss	92
+Macrococcus caseolyticus JCSC5402:loss	28
+Staphylococcus saprophyticus subsp saprophyticus ATCC 15305:loss	5
+Staphylococcus aureus subsp aureus NCTC 8325:loss	11
+Staphylococcus haemolyticus JCSC1435:loss	4
+Staphylococcus pasteuri SP1:loss	1
+Staphylococcus epidermidis ATCC 12228:loss	7
+Bacillus pumilus SAFR 032:loss	97
+Bacillus licheniformis DSM 13 ATCC 14580:loss	5
+Bacillus paralicheniformis ATCC 9945a:loss	5
+Bacillus subtilis BSn5:loss	10
+Bacillus subtilis subsp subtilis str 168:loss	0
+Bacillus amyloliquefaciens DSM 7:loss	24
+Bacillus methylotrophicus FZB42:loss	10
+Bacillus atrophaeus 1942:loss	30
+Bacillus coagulans 2 6:loss	158
+Bacillus infantis NRRL B 14911:loss	47
+Anoxybacillus flavithermus WK1:loss	92
+Geobacillus thermoglucosidasius C56 YS93:loss	33
+Geobacillus thermodenitrificans NG80 2:loss	18
+Geobacillus thermoleovorans CCB US3 UF5:loss	7
+Geobacillus kaustophilus HTA426:loss	13
+Bacillus cytotoxicus NVH 391 98:loss	40
+Bacillus thuringiensis BMB171:loss	6
+Bacillus anthracis str Ames:loss	10
+Bacillus cereus biovar anthracis str CI:loss	5
+Bacillus cereus ATCC 10987:loss	7
+Bacillus weihenstephanensis KBAB4:loss	17
+Bacillus toyonensis BCT 7112:loss	23
+Bacillus megaterium DSM 319:loss	47
+Amphibacillus xylanus NBRC 15112:loss	207
+Halobacillus halophilus DSM 2266:loss	78
+Oceanobacillus iheyensis HTE831:loss	84
+Paenibacillus mucilaginosus 3016:loss	70
+Paenibacillus larvae subsp larvae DSM 25430:loss	118
+Thermobacillus composti KWC4:loss	111
+Paenibacillus terrae HPL 003:loss	14
+Paenibacillus polymyxa E681:loss	16
+Brevibacillus reuszeri strain DSM 9887:loss	16
+Brevibacillus thermoruber 423:loss	43
+Brevibacillus laterosporus LMG 15441:loss	63
+Thermincola potens JR:loss	94
+Carboxydothermus hydrogenoformans Z 2901:loss	128
+Ammonifex degensii KC4:loss	61
+Candidatus Desulforudis audaxviator MP104C:loss	44
+Desulfotomaculum nigrificans CO 1 SRB:loss	43
+Desulfotomaculum reducens MI 1:loss	30
+Desulfotomaculum ruminis DSM 2154:loss	28
+Desulfotomaculum acetoxidans DSM 771:loss	47
+Desulfotomaculum gibsoniae DSM 7213:loss	43
+Heliobacterium modesticaldum Ice1:loss	156
+Syntrophobotulus glycolicus DSM 8271:loss	40
+Dehalobacter sp CF:loss	2
+Dehalobacter sp DCA:loss	1
+Desulfitobacterium dichloroeliminans LMG P 21439:loss	26
+Desulfitobacterium dehalogenans ATCC 51507:loss	14
+Desulfitobacterium hafniense DCB 2:loss	11
+Desulfosporosinus acidiphilus SJ4:loss	44
+Desulfosporosinus meridiei DSM 13257:loss	38
+Desulfosporosinus orientis DSM 765:loss	19
+Syntrophomonas wolfei subsp wolfei str Goettingen G311:loss	46
+Syntrophothermus lipocalidus DSM 12680:loss	53
+Thermacetogenium phaeum DSM 12270:loss	60
+Moorella thermoacetica ATCC 39073:loss	39
+Selenomonas ruminantium subsp lactilytica TAM6421:loss	19
+Selenomonas sputigena ATCC 35185:loss	27
+Acidaminococcus fermentans DSM 20731:loss	14
+Acidaminococcus intestini RyC MR95:loss	25
+Veillonella parvula DSM 2008:loss	65
+Megasphaera cerevisiae DSM 20462:loss	20
+Megasphaera elsdenii DSM 20460:loss	19
+Thermosinus carboxydivorans Nor1:loss	94
+Acetonema longum DSM 6540:loss	64
+Pelosinus fermentans JBW45:loss	31
+Sporomusa ovata DSM 2662:loss	70
+Halanaerobium hydrogeniformans:loss	23
+Halanaerobium praevalens DSM 2228:loss	32
+Halothermothrix orenii H 168:loss	116
+Acetohalobium arabaticum DSM 5501:loss	58
+Halobacteroides halobius DSM 5150:loss	49
+Natranaerobius thermophilus JW NM WN LF:loss	154
+Thermosediminibacter oceani DSM 16646:loss	67
+Tepidanaerobacter acetatoxydans Re1:loss	60
+Caldicellulosiruptor obsidiansis OB47:loss	2
+Caldicellulosiruptor owensensis OL:loss	8
+Caldicellulosiruptor lactoaceticus 6A:loss	6
+Caldicellulosiruptor kristjanssonii I77R1B:loss	4
+Caldicellulosiruptor kronotskyensis 2002:loss	4
+Caldicellulosiruptor bescii DSM 6725:loss	5
+Caldicellulosiruptor hydrothermalis 108:loss	8
+Caldicellulosiruptor saccharolyticus DSM 8903:loss	12
+Thermoanaerobacterium thermosaccharolyticum DSM 571:loss	18
+Thermoanaerobacterium xylanolyticum LX 11:loss	29
+Caldanaerobacter subterraneus subsp tengcongensis MB4:loss	43
+Thermoanaerobacter italicus Ab9:loss	35
+Thermoanaerobacter pseudethanolicus ATCC 33223:loss	0
+Thermoanaerobacter brockii subsp finnii Ako 1:loss	0
+Thermoanaerobacter wiegelii Rt8B1:loss	18
+Mahella australiensis 50 1 BON:loss	134
+Acetobacterium woodii DSM 1030:loss	33
+Eubacterium limosum KIST612:loss	47
+Anaerococcus prevotii DSM 20548:loss	45
+Finegoldia magna ATCC 29328:loss	45
+Alkaliphilus oremlandii OhILAs:loss	79
+Alkaliphilus metalliredigens QYMF:loss	57
+Peptoclostridium litorale DSM 5388:loss	188
+Clostridium paradoxum DSM 7308:loss	116
+Peptoclostridium hiranonis DSM 13275:loss	210
+Peptoclostridium mangenotii LM2:loss	46
+Peptoclostridium difficile CD196:loss	4
+Peptoclostridium difficile 630:loss	10
+Peptoclostridium difficile M120:loss	4
+Terrisporobacter glycolicus ATCC 14880:loss	45
+Paeniclostridium sordellii strain CBA7122:loss	29
+Paraclostridium bifermentans ATCC 638:loss	13
+Proteocatella sphenisci DSM 23131:loss	36
+Filifactor alocis ATCC 35896:loss	76
+Eubacterium yurii subsp margaretiae ATCC 43715:loss	99
+Ethanoligenens harbinense YUAN 3:loss	118
+Oscillibacter valericigenes Sjm18 20:loss	100
+Ruminococcus flavefaciens ATCC 19208:loss	46
+Ruminococcus bicirculans:loss	33
+Ruminococcus albus 7 DSM 20455:loss	23
+Clostridium stercorarium subsp stercorarium DSM 8532:loss	132
+Clostridium cellulolyticum H10:loss	87
+Ruminiclostridium thermocellum ATCC 27405:loss	36
+Clostridium clariflavum DSM 19732:loss	31
+Mageeibacillus indolicus UPII9 5:loss	280
+Epulopiscium sp Nt morphotype B:loss	157
+Clostridium lentocellum DSM 5427:loss	85
+Coprococcus eutactus ATCC 27759:loss	123
+Eubacterium eligens ATCC 27750:loss	116
+Lachnoclostridium phytofermentans ISDg:loss	66
+Clostridium saccharolyticum WM1:loss	45
+Eubacterium rectale ATCC 33656:loss	0
+Agathobacter rectalis ATCC 33656:loss	0
+Roseburia hominis A2 183:loss	27
+Coprococcus comes ATCC 27758:loss	90
+Blautia obeum ATCC 29174:loss	83
+Clostridium perfringens ATCC 13124:loss	103
+Clostridium beijerinckii NCIMB 8052:loss	25
+Clostridium saccharoperbutylacetonicum N1 4 HMT:loss	28
+Clostridium saccharobutylicum DSM 13864:loss	46
+Clostridium novyi NT:loss	143
+Clostridium acetobutylicum ATCC 824:loss	76
+Clostridium pasteurianum BC1:loss	65
+Clostridium kluyveri DSM 555:loss	47
+Clostridium ljungdahlii DSM 13528:loss	3
+Clostridium autoethanogenum DSM 10061:loss	13
+Clostridium botulinum A str ATCC 19397:loss	78
+Clostridium tetani 12124569:loss	114
+Clostridium cellulovorans 743B:loss	122
+Candidatus Arthromitus sp SFB mouse Japan:loss	4
+Candidatus Arthromitus sp SFB rat Yit:loss	6
+Symbiobacterium thermophilum IAM 14863:loss	104
+Thermaerobacter marianensis DSM 12885:loss	151
+Azorhizobium caulinodans ORS 571:loss	63
+Rhizobium leguminosarum bv viciae 3841:loss	29
+Brucella suis ATCC 23445:loss	5
+Brucella abortus bv 1 str 9 941:loss	4
+Brucella melitensis bv 1 str 16M:loss	6
+Neisseria meningitidis MC58:loss	136
+Sideroxydans lithotrophicus ES 1:loss	115
+Bordetella parapertussis Bpp5:loss	80
+Burkholderia pseudomallei NCTC 13179:loss	21
+Burkholderia cepacia GG4:loss	33
+Legionella pneumophila subsp pneumophila ATCC 43290:loss	119
+Vibrio cholerae IEC224:loss	39
+Aliivibrio salmonicida LFI1238:loss	29
+Photobacterium profundum SS9:loss	22
+Haemophilus influenzae Rd KW20:loss	85
+Raoultella ornithinolytica B6:loss	21
+Escherichia coli O157 H7 str Sakai:loss	8
+Shigella flexneri 2a str 301:loss	19
+Salmonella enterica subsp enterica serovar Typhimurium str LT2:loss	9
+Pseudomonas aeruginosa PAO1:loss	33
+Pseudomonas fluorescens Pf0 1:loss	12
+Pseudomonas syringae pv syringae B728a:loss	23
+Xanthomonas campestris pv campestris str ATCC 33913:loss	106
+Desulfovibrio vulgaris DP4:loss	24
+Desulfovibrio fairfieldensis strain CCUG 45958:loss	40
+Geobacter sulfurreducens PCA:loss	99
+Anaeromyxobacter dehalogenans 2CP C:loss	53
+Myxococcus xanthus DK 1622:loss	44
+Leptotrichia sp oral taxon 212:loss	51
+Sebaldella termitidis ATCC 33386:loss	21
+Fusobacterium hwasookii ChDC F300:loss	10
+Fusobacterium nucleatum subsp nucleatum ATCC 25586:loss	13
+Lutibacter sp LP1:loss	15
+Capnocytophaga canimorsus Cc5:loss	30
+Melioribacter roseus P3M 2:loss	92
+Leptospira interrogans serovar Lai str 56601:loss	142
+Brachyspira murdochii DSM 12563:loss	16
+Brachyspira intermedia PWS A:loss	11
+Brachyspira hyodysenteriae WA1:loss	13
+Treponema brennaborense DSM 12168:loss	54
+Treponema pedis str T A4:loss	59
+Campylobacter jejuni subsp jejuni 00 2538:loss	28
+Helicobacter pylori UM032:loss	31
+Anaerobaculum mobile DSM 13181:loss	120
+Thermus thermophilus HB8:loss	131
+Desulfurobacterium thermolithotrophum DSM 11699:loss	38
+Aquifex aeolicus VF5:loss	29
+Dictyoglomus turgidum DSM 6724:loss	6
+Dictyoglomus thermophilum H 6 12:loss	3
+Kosmotoga olearia TBF 1951:loss	30
+Fervidobacterium nodosum Rt17 B1:loss	35
+Pseudothermotoga hypogea NBRC 106472:loss	20
+Pseudothermotoga elfii NBRC 107921:loss	4
+Pseudothermotoga lettingae TMO:loss	1
+1:loss	0
+2:loss	114
+3:loss	0
+4:loss	142
+5:loss	105
+6:loss	7
+7:loss	64
+8:loss	15
+9:loss	27
+10:loss	18
+11:loss	26
+12:loss	43
+13:loss	0
+14:loss	6
+15:loss	17
+16:loss	18
+17:loss	35
+18:loss	77
+19:loss	2
+20:loss	8
+21:loss	20
+22:loss	27
+23:loss	218
+24:loss	0
+25:loss	4
+26:loss	40
+27:loss	9
+28:loss	3
+29:loss	29
+30:loss	1
+31:loss	1
+32:loss	9
+33:loss	7
+34:loss	29
+35:loss	10
+36:loss	12
+37:loss	2
+38:loss	20
+39:loss	5
+40:loss	8
+41:loss	30
+42:loss	26
+43:loss	7
+44:loss	10
+45:loss	0
+46:loss	11
+47:loss	11
+48:loss	19
+49:loss	24
+50:loss	183
+51:loss	0
+52:loss	4
+53:loss	1
+54:loss	35
+55:loss	195
+56:loss	0
+57:loss	38
+58:loss	117
+59:loss	82
+60:loss	1
+61:loss	63
+62:loss	17
+63:loss	0
+64:loss	0
+65:loss	2
+66:loss	7
+67:loss	19
+68:loss	24
+69:loss	12
+70:loss	73
+71:loss	3
+72:loss	1
+73:loss	0
+74:loss	1
+75:loss	12
+76:loss	55
+77:loss	20
+78:loss	13
+79:loss	9
+80:loss	3
+81:loss	0
+82:loss	8
+83:loss	66
+84:loss	0
+85:loss	18
+86:loss	13
+87:loss	43
+88:loss	30
+89:loss	48
+90:loss	23
+91:loss	54
+92:loss	0
+93:loss	10
+94:loss	8
+95:loss	81
+96:loss	7
+97:loss	20
+98:loss	34
+99:loss	11
+100:loss	23
+101:loss	0
+102:loss	32
+103:loss	39
+104:loss	85
+105:loss	14
+106:loss	51
+107:loss	9
+108:loss	29
+109:loss	0
+110:loss	49
+111:loss	2
+112:loss	88
+113:loss	72
+114:loss	45
+115:loss	0
+116:loss	32
+117:loss	45
+118:loss	59
+119:loss	19
+120:loss	11
+121:loss	3
+122:loss	132
+123:loss	1
+124:loss	6
+125:loss	12
+126:loss	74
+127:loss	8
+128:loss	160
+129:loss	0
+130:loss	61
+131:loss	48
+132:loss	28
+133:loss	130
+134:loss	4
+135:loss	7
+136:loss	3
+137:loss	2
+138:loss	2
+139:loss	4
+140:loss	134
+141:loss	41
+142:loss	20
+143:loss	16
+144:loss	11
+145:loss	29
+146:loss	48
+147:loss	0
+148:loss	53
+149:loss	179
+150:loss	208
+151:loss	68
+152:loss	2
+153:loss	20
+154:loss	73
+155:loss	29
+156:loss	43
+157:loss	18
+158:loss	0
+159:loss	28
+160:loss	0
+161:loss	38
+162:loss	132
+163:loss	29
+164:loss	0
+165:loss	7
+166:loss	21
+167:loss	19
+168:loss	86
+169:loss	20
+170:loss	68
+171:loss	49
+172:loss	26
+173:loss	32
+174:loss	0
+175:loss	17
+176:loss	27
+177:loss	9
+178:loss	57
+179:loss	40
+180:loss	12
+181:loss	30
+182:loss	0
+183:loss	8
+184:loss	53
+185:loss	52
+186:loss	9
+187:loss	30
+188:loss	42
+189:loss	19
+190:loss	53
+191:loss	28
+192:loss	8
+193:loss	21
+194:loss	12
+195:loss	8
+196:loss	8
+197:loss	13
+198:loss	221
+199:loss	4
+200:loss	11
+201:loss	0
+202:loss	8
+203:loss	9
+204:loss	13
+205:loss	8
+206:loss	28
+207:loss	8
+208:loss	104
+209:loss	11
+210:loss	0
+211:loss	0
+212:loss	46
+213:loss	28
+214:loss	50
+215:loss	23
+216:loss	27
+217:loss	0
+218:loss	13
+219:loss	4
+220:loss	41
+221:loss	7
+222:loss	23
+223:loss	5
+224:loss	28
+225:loss	26
+226:loss	13
+227:loss	46
+228:loss	3
+229:loss	0
+230:loss	9
+231:loss	10
+232:loss	35
+233:loss	112
+234:loss	42
+235:loss	24
+236:loss	27
+237:loss	14
+238:loss	95
+239:loss	136
+240:loss	46
+241:loss	87
+242:loss	75
+243:loss	11
+244:loss	5
+245:loss	81
+246:loss	52
+247:loss	42
+248:loss	0
+249:loss	141
+250:loss	42
+251:loss	4
+252:loss	3
+253:loss	0
+254:loss	0
+255:loss	109
+256:loss	79
+257:loss	19
+258:loss	7
+259:loss	0
+260:loss	56
+261:loss	36
+262:loss	18
+263:loss	0
+Nostoc punctiforme PCC 73102:expansion	5
+Microcystis aeruginosa NIES 843:expansion	1
+Thermosynechococcus elongatus BP 1:expansion	2
+Olsenella uli DSM 7084:expansion	0
+Gordonibacter pamelaeae 7 10 1 b:expansion	1
+Bifidobacterium bifidum PRL2010:expansion	1
+Bifidobacterium longum DJO10A:expansion	2
+Propionibacterium acnes ATCC 11828:expansion	1
+Propionibacterium acidipropionici ATCC 4875:expansion	1
+Mycobacterium tuberculosis H37Rv:expansion	0
+Mycobacterium marinum M:expansion	1
+Mycobacterium avium subsp paratuberculosis K 10:expansion	0
+Rhodococcus erythropolis CCM2595:expansion	3
+Nocardia brasiliensis ATCC 700358:expansion	5
+Nocardia cyriacigeorgica GUH 2:expansion	2
+Streptomyces collinus Tu 365:expansion	7
+Streptomyces pratensis ATCC 33331:expansion	0
+Streptomyces fulvissimus DSM 40593:expansion	3
+Kyrpidia tusciae DSM 2912:expansion	4
+Alicyclobacillus acidocaldarius subsp acidocaldarius DSM 446:expansion	4
+Bacillus cellulosilyticus DSM 2522:expansion	2
+Bacillus selenitireducens MLS10:expansion	1
+Bacillus halodurans C 125:expansion	2
+Bacillus pseudofirmus OF4:expansion	4
+Bacillus clausii KSM K16:expansion	4
+Exiguobacterium sibiricum 255 15:expansion	0
+Exiguobacterium antarcticum B7:expansion	0
+Turicibacter sanguinis PC909:expansion	6
+Listeria seeligeri serovar 1 2b str SLCC3954:expansion	0
+Listeria ivanovii subsp ivanovii PAM 55:expansion	0
+Listeria monocytogenes serotype 4b str F2365:expansion	0
+Carnobacterium maltaromaticum LMA28:expansion	2
+Carnobacterium inhibens subsp gilichinskyi:expansion	1
+Aerococcus urinae ACS 120 V Col10a:expansion	0
+Lactobacillus casei BL23:expansion	4
+Lactobacillus brevis ATCC 367:expansion	1
+Lactobacillus plantarum JDM1:expansion	1
+Pediococcus pentosaceus ATCC 25745:expansion	0
+Pediococcus claussenii ATCC BAA 344:expansion	0
+Weissella koreensis KACC 15510:expansion	1
+Oenococcus oeni PSU 1:expansion	3
+Leuconostoc mesenteroides subsp mesenteroides ATCC 8293:expansion	1
+Leuconostoc citreum KM20:expansion	0
+Leuconostoc carnosum JB16:expansion	0
+Lactococcus lactis subsp lactis KF147:expansion	0
+Lactococcus garvieae ATCC 49156:expansion	0
+Streptococcus infantarius subsp infantarius CJ18:expansion	0
+Streptococcus salivarius CCHSS3:expansion	0
+Streptococcus pneumoniae SPN032672:expansion	0
+Streptococcus parasanguinis ATCC 15912:expansion	0
+Enterococcus faecalis V583:expansion	0
+Melissococcus plutonius DAT561:expansion	0
+Enterococcus hirae ATCC 9790:expansion	0
+Tetragenococcus halophilus NBRC 12172:expansion	1
+Enterococcus casseliflavus EC20:expansion	1
+Solibacillus silvestris StLB046:expansion	3
+Macrococcus caseolyticus JCSC5402:expansion	0
+Staphylococcus saprophyticus subsp saprophyticus ATCC 15305:expansion	1
+Staphylococcus aureus subsp aureus NCTC 8325:expansion	0
+Staphylococcus haemolyticus JCSC1435:expansion	1
+Staphylococcus pasteuri SP1:expansion	1
+Staphylococcus epidermidis ATCC 12228:expansion	1
+Bacillus pumilus SAFR 032:expansion	1
+Bacillus licheniformis DSM 13 ATCC 14580:expansion	0
+Bacillus paralicheniformis ATCC 9945a:expansion	0
+Bacillus subtilis BSn5:expansion	2
+Bacillus subtilis subsp subtilis str 168:expansion	0
+Bacillus amyloliquefaciens DSM 7:expansion	1
+Bacillus methylotrophicus FZB42:expansion	1
+Bacillus atrophaeus 1942:expansion	0
+Bacillus coagulans 2 6:expansion	0
+Bacillus infantis NRRL B 14911:expansion	1
+Anoxybacillus flavithermus WK1:expansion	0
+Geobacillus thermoglucosidasius C56 YS93:expansion	0
+Geobacillus thermodenitrificans NG80 2:expansion	0
+Geobacillus thermoleovorans CCB US3 UF5:expansion	0
+Geobacillus kaustophilus HTA426:expansion	2
+Bacillus cytotoxicus NVH 391 98:expansion	1
+Bacillus thuringiensis BMB171:expansion	1
+Bacillus anthracis str Ames:expansion	0
+Bacillus cereus biovar anthracis str CI:expansion	2
+Bacillus cereus ATCC 10987:expansion	1
+Bacillus weihenstephanensis KBAB4:expansion	1
+Bacillus toyonensis BCT 7112:expansion	0
+Bacillus megaterium DSM 319:expansion	17
+Amphibacillus xylanus NBRC 15112:expansion	4
+Halobacillus halophilus DSM 2266:expansion	2
+Oceanobacillus iheyensis HTE831:expansion	1
+Paenibacillus mucilaginosus 3016:expansion	8
+Paenibacillus larvae subsp larvae DSM 25430:expansion	2
+Thermobacillus composti KWC4:expansion	2
+Paenibacillus terrae HPL 003:expansion	1
+Paenibacillus polymyxa E681:expansion	1
+Brevibacillus reuszeri strain DSM 9887:expansion	2
+Brevibacillus thermoruber 423:expansion	1
+Brevibacillus laterosporus LMG 15441:expansion	3
+Thermincola potens JR:expansion	2
+Carboxydothermus hydrogenoformans Z 2901:expansion	3
+Ammonifex degensii KC4:expansion	2
+Candidatus Desulforudis audaxviator MP104C:expansion	0
+Desulfotomaculum nigrificans CO 1 SRB:expansion	3
+Desulfotomaculum reducens MI 1:expansion	3
+Desulfotomaculum ruminis DSM 2154:expansion	2
+Desulfotomaculum acetoxidans DSM 771:expansion	7
+Desulfotomaculum gibsoniae DSM 7213:expansion	5
+Heliobacterium modesticaldum Ice1:expansion	4
+Syntrophobotulus glycolicus DSM 8271:expansion	2
+Dehalobacter sp CF:expansion	0
+Dehalobacter sp DCA:expansion	0
+Desulfitobacterium dichloroeliminans LMG P 21439:expansion	0
+Desulfitobacterium dehalogenans ATCC 51507:expansion	2
+Desulfitobacterium hafniense DCB 2:expansion	0
+Desulfosporosinus acidiphilus SJ4:expansion	6
+Desulfosporosinus meridiei DSM 13257:expansion	0
+Desulfosporosinus orientis DSM 765:expansion	4
+Syntrophomonas wolfei subsp wolfei str Goettingen G311:expansion	1
+Syntrophothermus lipocalidus DSM 12680:expansion	2
+Thermacetogenium phaeum DSM 12270:expansion	1
+Moorella thermoacetica ATCC 39073:expansion	0
+Selenomonas ruminantium subsp lactilytica TAM6421:expansion	2
+Selenomonas sputigena ATCC 35185:expansion	0
+Acidaminococcus fermentans DSM 20731:expansion	1
+Acidaminococcus intestini RyC MR95:expansion	2
+Veillonella parvula DSM 2008:expansion	2
+Megasphaera cerevisiae DSM 20462:expansion	3
+Megasphaera elsdenii DSM 20460:expansion	0
+Thermosinus carboxydivorans Nor1:expansion	4
+Acetonema longum DSM 6540:expansion	4
+Pelosinus fermentans JBW45:expansion	11
+Sporomusa ovata DSM 2662:expansion	4
+Halanaerobium hydrogeniformans:expansion	3
+Halanaerobium praevalens DSM 2228:expansion	4
+Halothermothrix orenii H 168:expansion	1
+Acetohalobium arabaticum DSM 5501:expansion	0
+Halobacteroides halobius DSM 5150:expansion	7
+Natranaerobius thermophilus JW NM WN LF:expansion	2
+Thermosediminibacter oceani DSM 16646:expansion	0
+Tepidanaerobacter acetatoxydans Re1:expansion	1
+Caldicellulosiruptor obsidiansis OB47:expansion	1
+Caldicellulosiruptor owensensis OL:expansion	0
+Caldicellulosiruptor lactoaceticus 6A:expansion	0
+Caldicellulosiruptor kristjanssonii I77R1B:expansion	0
+Caldicellulosiruptor kronotskyensis 2002:expansion	0
+Caldicellulosiruptor bescii DSM 6725:expansion	0
+Caldicellulosiruptor hydrothermalis 108:expansion	0
+Caldicellulosiruptor saccharolyticus DSM 8903:expansion	2
+Thermoanaerobacterium thermosaccharolyticum DSM 571:expansion	2
+Thermoanaerobacterium xylanolyticum LX 11:expansion	0
+Caldanaerobacter subterraneus subsp tengcongensis MB4:expansion	2
+Thermoanaerobacter italicus Ab9:expansion	0
+Thermoanaerobacter pseudethanolicus ATCC 33223:expansion	0
+Thermoanaerobacter brockii subsp finnii Ako 1:expansion	0
+Thermoanaerobacter wiegelii Rt8B1:expansion	0
+Mahella australiensis 50 1 BON:expansion	0
+Acetobacterium woodii DSM 1030:expansion	0
+Eubacterium limosum KIST612:expansion	4
+Anaerococcus prevotii DSM 20548:expansion	0
+Finegoldia magna ATCC 29328:expansion	0
+Alkaliphilus oremlandii OhILAs:expansion	0
+Alkaliphilus metalliredigens QYMF:expansion	2
+Peptoclostridium litorale DSM 5388:expansion	9
+Clostridium paradoxum DSM 7308:expansion	1
+Peptoclostridium hiranonis DSM 13275:expansion	0
+Peptoclostridium mangenotii LM2:expansion	1
+Peptoclostridium difficile CD196:expansion	0
+Peptoclostridium difficile 630:expansion	0
+Peptoclostridium difficile M120:expansion	1
+Terrisporobacter glycolicus ATCC 14880:expansion	3
+Paeniclostridium sordellii strain CBA7122:expansion	1
+Paraclostridium bifermentans ATCC 638:expansion	0
+Proteocatella sphenisci DSM 23131:expansion	0
+Filifactor alocis ATCC 35896:expansion	0
+Eubacterium yurii subsp margaretiae ATCC 43715:expansion	0
+Ethanoligenens harbinense YUAN 3:expansion	2
+Oscillibacter valericigenes Sjm18 20:expansion	2
+Ruminococcus flavefaciens ATCC 19208:expansion	2
+Ruminococcus bicirculans:expansion	2
+Ruminococcus albus 7 DSM 20455:expansion	0
+Clostridium stercorarium subsp stercorarium DSM 8532:expansion	0
+Clostridium cellulolyticum H10:expansion	0
+Ruminiclostridium thermocellum ATCC 27405:expansion	1
+Clostridium clariflavum DSM 19732:expansion	3
+Mageeibacillus indolicus UPII9 5:expansion	0
+Epulopiscium sp Nt morphotype B:expansion	1
+Clostridium lentocellum DSM 5427:expansion	3
+Coprococcus eutactus ATCC 27759:expansion	1
+Eubacterium eligens ATCC 27750:expansion	0
+Lachnoclostridium phytofermentans ISDg:expansion	1
+Clostridium saccharolyticum WM1:expansion	2
+Eubacterium rectale ATCC 33656:expansion	0
+Agathobacter rectalis ATCC 33656:expansion	0
+Roseburia hominis A2 183:expansion	3
+Coprococcus comes ATCC 27758:expansion	2
+Blautia obeum ATCC 29174:expansion	1
+Clostridium perfringens ATCC 13124:expansion	6
+Clostridium beijerinckii NCIMB 8052:expansion	3
+Clostridium saccharoperbutylacetonicum N1 4 HMT:expansion	1
+Clostridium saccharobutylicum DSM 13864:expansion	4
+Clostridium novyi NT:expansion	2
+Clostridium acetobutylicum ATCC 824:expansion	2
+Clostridium pasteurianum BC1:expansion	12
+Clostridium kluyveri DSM 555:expansion	0
+Clostridium ljungdahlii DSM 13528:expansion	2
+Clostridium autoethanogenum DSM 10061:expansion	0
+Clostridium botulinum A str ATCC 19397:expansion	2
+Clostridium tetani 12124569:expansion	3
+Clostridium cellulovorans 743B:expansion	3
+Candidatus Arthromitus sp SFB mouse Japan:expansion	0
+Candidatus Arthromitus sp SFB rat Yit:expansion	0
+Symbiobacterium thermophilum IAM 14863:expansion	5
+Thermaerobacter marianensis DSM 12885:expansion	1
+Azorhizobium caulinodans ORS 571:expansion	4
+Rhizobium leguminosarum bv viciae 3841:expansion	1
+Brucella suis ATCC 23445:expansion	0
+Brucella abortus bv 1 str 9 941:expansion	0
+Brucella melitensis bv 1 str 16M:expansion	0
+Neisseria meningitidis MC58:expansion	3
+Sideroxydans lithotrophicus ES 1:expansion	2
+Bordetella parapertussis Bpp5:expansion	1
+Burkholderia pseudomallei NCTC 13179:expansion	1
+Burkholderia cepacia GG4:expansion	3
+Legionella pneumophila subsp pneumophila ATCC 43290:expansion	0
+Vibrio cholerae IEC224:expansion	1
+Aliivibrio salmonicida LFI1238:expansion	4
+Photobacterium profundum SS9:expansion	4
+Haemophilus influenzae Rd KW20:expansion	0
+Raoultella ornithinolytica B6:expansion	0
+Escherichia coli O157 H7 str Sakai:expansion	0
+Shigella flexneri 2a str 301:expansion	0
+Salmonella enterica subsp enterica serovar Typhimurium str LT2:expansion	1
+Pseudomonas aeruginosa PAO1:expansion	4
+Pseudomonas fluorescens Pf0 1:expansion	3
+Pseudomonas syringae pv syringae B728a:expansion	0
+Xanthomonas campestris pv campestris str ATCC 33913:expansion	1
+Desulfovibrio vulgaris DP4:expansion	1
+Desulfovibrio fairfieldensis strain CCUG 45958:expansion	1
+Geobacter sulfurreducens PCA:expansion	5
+Anaeromyxobacter dehalogenans 2CP C:expansion	3
+Myxococcus xanthus DK 1622:expansion	1
+Leptotrichia sp oral taxon 212:expansion	2
+Sebaldella termitidis ATCC 33386:expansion	1
+Fusobacterium hwasookii ChDC F300:expansion	1
+Fusobacterium nucleatum subsp nucleatum ATCC 25586:expansion	0
+Lutibacter sp LP1:expansion	0
+Capnocytophaga canimorsus Cc5:expansion	0
+Melioribacter roseus P3M 2:expansion	2
+Leptospira interrogans serovar Lai str 56601:expansion	1
+Brachyspira murdochii DSM 12563:expansion	0
+Brachyspira intermedia PWS A:expansion	0
+Brachyspira hyodysenteriae WA1:expansion	0
+Treponema brennaborense DSM 12168:expansion	1
+Treponema pedis str T A4:expansion	0
+Campylobacter jejuni subsp jejuni 00 2538:expansion	0
+Helicobacter pylori UM032:expansion	0
+Anaerobaculum mobile DSM 13181:expansion	0
+Thermus thermophilus HB8:expansion	0
+Desulfurobacterium thermolithotrophum DSM 11699:expansion	1
+Aquifex aeolicus VF5:expansion	2
+Dictyoglomus turgidum DSM 6724:expansion	1
+Dictyoglomus thermophilum H 6 12:expansion	0
+Kosmotoga olearia TBF 1951:expansion	0
+Fervidobacterium nodosum Rt17 B1:expansion	0
+Pseudothermotoga hypogea NBRC 106472:expansion	0
+Pseudothermotoga elfii NBRC 107921:expansion	0
+Pseudothermotoga lettingae TMO:expansion	0
+1:expansion	0
+2:expansion	0
+3:expansion	0
+4:expansion	0
+5:expansion	0
+6:expansion	1
+7:expansion	1
+8:expansion	0
+9:expansion	0
+10:expansion	2
+11:expansion	1
+12:expansion	1
+13:expansion	3
+14:expansion	0
+15:expansion	2
+16:expansion	0
+17:expansion	1
+18:expansion	0
+19:expansion	3
+20:expansion	0
+21:expansion	0
+22:expansion	0
+23:expansion	0
+24:expansion	0
+25:expansion	0
+26:expansion	0
+27:expansion	0
+28:expansion	0
+29:expansion	0
+30:expansion	0
+31:expansion	0
+32:expansion	0
+33:expansion	0
+34:expansion	0
+35:expansion	0
+36:expansion	0
+37:expansion	0
+38:expansion	1
+39:expansion	0
+40:expansion	0
+41:expansion	0
+42:expansion	1
+43:expansion	0
+44:expansion	0
+45:expansion	0
+46:expansion	0
+47:expansion	1
+48:expansion	0
+49:expansion	0
+50:expansion	2
+51:expansion	0
+52:expansion	0
+53:expansion	0
+54:expansion	0
+55:expansion	0
+56:expansion	0
+57:expansion	0
+58:expansion	21
+59:expansion	1
+60:expansion	4
+61:expansion	0
+62:expansion	0
+63:expansion	1
+64:expansion	1
+65:expansion	0
+66:expansion	0
+67:expansion	2
+68:expansion	1
+69:expansion	1
+70:expansion	1
+71:expansion	0
+72:expansion	0
+73:expansion	2
+74:expansion	0
+75:expansion	2
+76:expansion	3
+77:expansion	1
+78:expansion	0
+79:expansion	0
+80:expansion	0
+81:expansion	0
+82:expansion	0
+83:expansion	0
+84:expansion	0
+85:expansion	1
+86:expansion	3
+87:expansion	1
+88:expansion	0
+89:expansion	0
+90:expansion	1
+91:expansion	2
+92:expansion	0
+93:expansion	1
+94:expansion	5
+95:expansion	0
+96:expansion	0
+97:expansion	2
+98:expansion	1
+99:expansion	1
+100:expansion	0
+101:expansion	0
+102:expansion	0
+103:expansion	2
+104:expansion	2
+105:expansion	1
+106:expansion	0
+107:expansion	0
+108:expansion	1
+109:expansion	0
+110:expansion	1
+111:expansion	1
+112:expansion	2
+113:expansion	0
+114:expansion	0
+115:expansion	0
+116:expansion	0
+117:expansion	2
+118:expansion	1
+119:expansion	3
+120:expansion	0
+121:expansion	0
+122:expansion	0
+123:expansion	1
+124:expansion	1
+125:expansion	0
+126:expansion	4
+127:expansion	0
+128:expansion	0
+129:expansion	0
+130:expansion	2
+131:expansion	0
+132:expansion	0
+133:expansion	0
+134:expansion	0
+135:expansion	0
+136:expansion	0
+137:expansion	0
+138:expansion	0
+139:expansion	0
+140:expansion	0
+141:expansion	0
+142:expansion	0
+143:expansion	0
+144:expansion	0
+145:expansion	0
+146:expansion	0
+147:expansion	0
+148:expansion	0
+149:expansion	0
+150:expansion	0
+151:expansion	1
+152:expansion	0
+153:expansion	1
+154:expansion	0
+155:expansion	0
+156:expansion	0
+157:expansion	0
+158:expansion	0
+159:expansion	0
+160:expansion	0
+161:expansion	0
+162:expansion	0
+163:expansion	4
+164:expansion	2
+165:expansion	0
+166:expansion	5
+167:expansion	0
+168:expansion	0
+169:expansion	0
+170:expansion	0
+171:expansion	0
+172:expansion	0
+173:expansion	1
+174:expansion	0
+175:expansion	1
+176:expansion	0
+177:expansion	0
+178:expansion	0
+179:expansion	0
+180:expansion	1
+181:expansion	0
+182:expansion	0
+183:expansion	0
+184:expansion	0
+185:expansion	2
+186:expansion	0
+187:expansion	3
+188:expansion	0
+189:expansion	0
+190:expansion	3
+191:expansion	0
+192:expansion	0
+193:expansion	0
+194:expansion	0
+195:expansion	0
+196:expansion	3
+197:expansion	0
+198:expansion	0
+199:expansion	1
+200:expansion	0
+201:expansion	0
+202:expansion	6
+203:expansion	1
+204:expansion	0
+205:expansion	3
+206:expansion	0
+207:expansion	0
+208:expansion	0
+209:expansion	13
+210:expansion	0
+211:expansion	0
+212:expansion	0
+213:expansion	0
+214:expansion	0
+215:expansion	4
+216:expansion	0
+217:expansion	0
+218:expansion	0
+219:expansion	0
+220:expansion	0
+221:expansion	1
+222:expansion	0
+223:expansion	5
+224:expansion	0
+225:expansion	0
+226:expansion	0
+227:expansion	0
+228:expansion	0
+229:expansion	0
+230:expansion	0
+231:expansion	1
+232:expansion	0
+233:expansion	0
+234:expansion	1
+235:expansion	0
+236:expansion	0
+237:expansion	0
+238:expansion	0
+239:expansion	0
+240:expansion	11
+241:expansion	0
+242:expansion	0
+243:expansion	0
+244:expansion	2
+245:expansion	0
+246:expansion	0
+247:expansion	0
+248:expansion	0
+249:expansion	0
+250:expansion	0
+251:expansion	0
+252:expansion	0
+253:expansion	14
+254:expansion	0
+255:expansion	0
+256:expansion	0
+257:expansion	0
+258:expansion	0
+259:expansion	1
+260:expansion	0
+261:expansion	0
+262:expansion	0
+263:expansion	0
+Nostoc punctiforme PCC 73102:contraction	2
+Microcystis aeruginosa NIES 843:contraction	1
+Thermosynechococcus elongatus BP 1:contraction	2
+Olsenella uli DSM 7084:contraction	3
+Gordonibacter pamelaeae 7 10 1 b:contraction	3
+Bifidobacterium bifidum PRL2010:contraction	0
+Bifidobacterium longum DJO10A:contraction	0
+Propionibacterium acnes ATCC 11828:contraction	1
+Propionibacterium acidipropionici ATCC 4875:contraction	1
+Mycobacterium tuberculosis H37Rv:contraction	1
+Mycobacterium marinum M:contraction	1
+Mycobacterium avium subsp paratuberculosis K 10:contraction	2
+Rhodococcus erythropolis CCM2595:contraction	5
+Nocardia brasiliensis ATCC 700358:contraction	3
+Nocardia cyriacigeorgica GUH 2:contraction	3
+Streptomyces collinus Tu 365:contraction	4
+Streptomyces pratensis ATCC 33331:contraction	1
+Streptomyces fulvissimus DSM 40593:contraction	3
+Kyrpidia tusciae DSM 2912:contraction	5
+Alicyclobacillus acidocaldarius subsp acidocaldarius DSM 446:contraction	7
+Bacillus cellulosilyticus DSM 2522:contraction	3
+Bacillus selenitireducens MLS10:contraction	4
+Bacillus halodurans C 125:contraction	1
+Bacillus pseudofirmus OF4:contraction	0
+Bacillus clausii KSM K16:contraction	2
+Exiguobacterium sibiricum 255 15:contraction	0
+Exiguobacterium antarcticum B7:contraction	0
+Turicibacter sanguinis PC909:contraction	11
+Listeria seeligeri serovar 1 2b str SLCC3954:contraction	0
+Listeria ivanovii subsp ivanovii PAM 55:contraction	0
+Listeria monocytogenes serotype 4b str F2365:contraction	0
+Carnobacterium maltaromaticum LMA28:contraction	1
+Carnobacterium inhibens subsp gilichinskyi:contraction	1
+Aerococcus urinae ACS 120 V Col10a:contraction	3
+Lactobacillus casei BL23:contraction	1
+Lactobacillus brevis ATCC 367:contraction	1
+Lactobacillus plantarum JDM1:contraction	1
+Pediococcus pentosaceus ATCC 25745:contraction	0
+Pediococcus claussenii ATCC BAA 344:contraction	0
+Weissella koreensis KACC 15510:contraction	1
+Oenococcus oeni PSU 1:contraction	1
+Leuconostoc mesenteroides subsp mesenteroides ATCC 8293:contraction	1
+Leuconostoc citreum KM20:contraction	1
+Leuconostoc carnosum JB16:contraction	1
+Lactococcus lactis subsp lactis KF147:contraction	1
+Lactococcus garvieae ATCC 49156:contraction	3
+Streptococcus infantarius subsp infantarius CJ18:contraction	1
+Streptococcus salivarius CCHSS3:contraction	1
+Streptococcus pneumoniae SPN032672:contraction	0
+Streptococcus parasanguinis ATCC 15912:contraction	0
+Enterococcus faecalis V583:contraction	1
+Melissococcus plutonius DAT561:contraction	0
+Enterococcus hirae ATCC 9790:contraction	1
+Tetragenococcus halophilus NBRC 12172:contraction	1
+Enterococcus casseliflavus EC20:contraction	0
+Solibacillus silvestris StLB046:contraction	6
+Macrococcus caseolyticus JCSC5402:contraction	3
+Staphylococcus saprophyticus subsp saprophyticus ATCC 15305:contraction	0
+Staphylococcus aureus subsp aureus NCTC 8325:contraction	0
+Staphylococcus haemolyticus JCSC1435:contraction	0
+Staphylococcus pasteuri SP1:contraction	0
+Staphylococcus epidermidis ATCC 12228:contraction	0
+Bacillus pumilus SAFR 032:contraction	2
+Bacillus licheniformis DSM 13 ATCC 14580:contraction	0
+Bacillus paralicheniformis ATCC 9945a:contraction	0
+Bacillus subtilis BSn5:contraction	0
+Bacillus subtilis subsp subtilis str 168:contraction	0
+Bacillus amyloliquefaciens DSM 7:contraction	0
+Bacillus methylotrophicus FZB42:contraction	0
+Bacillus atrophaeus 1942:contraction	0
+Bacillus coagulans 2 6:contraction	0
+Bacillus infantis NRRL B 14911:contraction	1
+Anoxybacillus flavithermus WK1:contraction	1
+Geobacillus thermoglucosidasius C56 YS93:contraction	0
+Geobacillus thermodenitrificans NG80 2:contraction	0
+Geobacillus thermoleovorans CCB US3 UF5:contraction	0
+Geobacillus kaustophilus HTA426:contraction	1
+Bacillus cytotoxicus NVH 391 98:contraction	1
+Bacillus thuringiensis BMB171:contraction	0
+Bacillus anthracis str Ames:contraction	0
+Bacillus cereus biovar anthracis str CI:contraction	3
+Bacillus cereus ATCC 10987:contraction	1
+Bacillus weihenstephanensis KBAB4:contraction	1
+Bacillus toyonensis BCT 7112:contraction	2
+Bacillus megaterium DSM 319:contraction	0
+Amphibacillus xylanus NBRC 15112:contraction	1
+Halobacillus halophilus DSM 2266:contraction	2
+Oceanobacillus iheyensis HTE831:contraction	1
+Paenibacillus mucilaginosus 3016:contraction	3
+Paenibacillus larvae subsp larvae DSM 25430:contraction	5
+Thermobacillus composti KWC4:contraction	2
+Paenibacillus terrae HPL 003:contraction	0
+Paenibacillus polymyxa E681:contraction	1
+Brevibacillus reuszeri strain DSM 9887:contraction	0
+Brevibacillus thermoruber 423:contraction	2
+Brevibacillus laterosporus LMG 15441:contraction	3
+Thermincola potens JR:contraction	2
+Carboxydothermus hydrogenoformans Z 2901:contraction	4
+Ammonifex degensii KC4:contraction	1
+Candidatus Desulforudis audaxviator MP104C:contraction	0
+Desulfotomaculum nigrificans CO 1 SRB:contraction	2
+Desulfotomaculum reducens MI 1:contraction	2
+Desulfotomaculum ruminis DSM 2154:contraction	3
+Desulfotomaculum acetoxidans DSM 771:contraction	1
+Desulfotomaculum gibsoniae DSM 7213:contraction	1
+Heliobacterium modesticaldum Ice1:contraction	2
+Syntrophobotulus glycolicus DSM 8271:contraction	1
+Dehalobacter sp CF:contraction	0
+Dehalobacter sp DCA:contraction	0
+Desulfitobacterium dichloroeliminans LMG P 21439:contraction	0
+Desulfitobacterium dehalogenans ATCC 51507:contraction	0
+Desulfitobacterium hafniense DCB 2:contraction	0
+Desulfosporosinus acidiphilus SJ4:contraction	2
+Desulfosporosinus meridiei DSM 13257:contraction	2
+Desulfosporosinus orientis DSM 765:contraction	1
+Syntrophomonas wolfei subsp wolfei str Goettingen G311:contraction	2
+Syntrophothermus lipocalidus DSM 12680:contraction	3
+Thermacetogenium phaeum DSM 12270:contraction	1
+Moorella thermoacetica ATCC 39073:contraction	1
+Selenomonas ruminantium subsp lactilytica TAM6421:contraction	1
+Selenomonas sputigena ATCC 35185:contraction	1
+Acidaminococcus fermentans DSM 20731:contraction	0
+Acidaminococcus intestini RyC MR95:contraction	2
+Veillonella parvula DSM 2008:contraction	0
+Megasphaera cerevisiae DSM 20462:contraction	2
+Megasphaera elsdenii DSM 20460:contraction	1
+Thermosinus carboxydivorans Nor1:contraction	7
+Acetonema longum DSM 6540:contraction	7
+Pelosinus fermentans JBW45:contraction	3
+Sporomusa ovata DSM 2662:contraction	5
+Halanaerobium hydrogeniformans:contraction	0
+Halanaerobium praevalens DSM 2228:contraction	0
+Halothermothrix orenii H 168:contraction	5
+Acetohalobium arabaticum DSM 5501:contraction	3
+Halobacteroides halobius DSM 5150:contraction	2
+Natranaerobius thermophilus JW NM WN LF:contraction	8
+Thermosediminibacter oceani DSM 16646:contraction	2
+Tepidanaerobacter acetatoxydans Re1:contraction	1
+Caldicellulosiruptor obsidiansis OB47:contraction	1
+Caldicellulosiruptor owensensis OL:contraction	0
+Caldicellulosiruptor lactoaceticus 6A:contraction	2
+Caldicellulosiruptor kristjanssonii I77R1B:contraction	0
+Caldicellulosiruptor kronotskyensis 2002:contraction	0
+Caldicellulosiruptor bescii DSM 6725:contraction	0
+Caldicellulosiruptor hydrothermalis 108:contraction	0
+Caldicellulosiruptor saccharolyticus DSM 8903:contraction	1
+Thermoanaerobacterium thermosaccharolyticum DSM 571:contraction	0
+Thermoanaerobacterium xylanolyticum LX 11:contraction	0
+Caldanaerobacter subterraneus subsp tengcongensis MB4:contraction	0
+Thermoanaerobacter italicus Ab9:contraction	1
+Thermoanaerobacter pseudethanolicus ATCC 33223:contraction	0
+Thermoanaerobacter brockii subsp finnii Ako 1:contraction	0
+Thermoanaerobacter wiegelii Rt8B1:contraction	0
+Mahella australiensis 50 1 BON:contraction	5
+Acetobacterium woodii DSM 1030:contraction	3
+Eubacterium limosum KIST612:contraction	2
+Anaerococcus prevotii DSM 20548:contraction	1
+Finegoldia magna ATCC 29328:contraction	1
+Alkaliphilus oremlandii OhILAs:contraction	8
+Alkaliphilus metalliredigens QYMF:contraction	8
+Peptoclostridium litorale DSM 5388:contraction	11
+Clostridium paradoxum DSM 7308:contraction	10
+Peptoclostridium hiranonis DSM 13275:contraction	5
+Peptoclostridium mangenotii LM2:contraction	4
+Peptoclostridium difficile CD196:contraction	0
+Peptoclostridium difficile 630:contraction	0
+Peptoclostridium difficile M120:contraction	1
+Terrisporobacter glycolicus ATCC 14880:contraction	2
+Paeniclostridium sordellii strain CBA7122:contraction	2
+Paraclostridium bifermentans ATCC 638:contraction	2
+Proteocatella sphenisci DSM 23131:contraction	2
+Filifactor alocis ATCC 35896:contraction	2
+Eubacterium yurii subsp margaretiae ATCC 43715:contraction	6
+Ethanoligenens harbinense YUAN 3:contraction	2
+Oscillibacter valericigenes Sjm18 20:contraction	5
+Ruminococcus flavefaciens ATCC 19208:contraction	0
+Ruminococcus bicirculans:contraction	1
+Ruminococcus albus 7 DSM 20455:contraction	1
+Clostridium stercorarium subsp stercorarium DSM 8532:contraction	5
+Clostridium cellulolyticum H10:contraction	5
+Ruminiclostridium thermocellum ATCC 27405:contraction	3
+Clostridium clariflavum DSM 19732:contraction	1
+Mageeibacillus indolicus UPII9 5:contraction	4
+Epulopiscium sp Nt morphotype B:contraction	6
+Clostridium lentocellum DSM 5427:contraction	7
+Coprococcus eutactus ATCC 27759:contraction	2
+Eubacterium eligens ATCC 27750:contraction	4
+Lachnoclostridium phytofermentans ISDg:contraction	6
+Clostridium saccharolyticum WM1:contraction	4
+Eubacterium rectale ATCC 33656:contraction	0
+Agathobacter rectalis ATCC 33656:contraction	0
+Roseburia hominis A2 183:contraction	1
+Coprococcus comes ATCC 27758:contraction	2
+Blautia obeum ATCC 29174:contraction	4
+Clostridium perfringens ATCC 13124:contraction	5
+Clostridium beijerinckii NCIMB 8052:contraction	2
+Clostridium saccharoperbutylacetonicum N1 4 HMT:contraction	3
+Clostridium saccharobutylicum DSM 13864:contraction	4
+Clostridium novyi NT:contraction	5
+Clostridium acetobutylicum ATCC 824:contraction	8
+Clostridium pasteurianum BC1:contraction	4
+Clostridium kluyveri DSM 555:contraction	3
+Clostridium ljungdahlii DSM 13528:contraction	0
+Clostridium autoethanogenum DSM 10061:contraction	0
+Clostridium botulinum A str ATCC 19397:contraction	6
+Clostridium tetani 12124569:contraction	5
+Clostridium cellulovorans 743B:contraction	9
+Candidatus Arthromitus sp SFB mouse Japan:contraction	0
+Candidatus Arthromitus sp SFB rat Yit:contraction	0
+Symbiobacterium thermophilum IAM 14863:contraction	5
+Thermaerobacter marianensis DSM 12885:contraction	6
+Azorhizobium caulinodans ORS 571:contraction	7
+Rhizobium leguminosarum bv viciae 3841:contraction	3
+Brucella suis ATCC 23445:contraction	0
+Brucella abortus bv 1 str 9 941:contraction	0
+Brucella melitensis bv 1 str 16M:contraction	0
+Neisseria meningitidis MC58:contraction	4
+Sideroxydans lithotrophicus ES 1:contraction	3
+Bordetella parapertussis Bpp5:contraction	5
+Burkholderia pseudomallei NCTC 13179:contraction	3
+Burkholderia cepacia GG4:contraction	3
+Legionella pneumophila subsp pneumophila ATCC 43290:contraction	4
+Vibrio cholerae IEC224:contraction	2
+Aliivibrio salmonicida LFI1238:contraction	2
+Photobacterium profundum SS9:contraction	1
+Haemophilus influenzae Rd KW20:contraction	2
+Raoultella ornithinolytica B6:contraction	3
+Escherichia coli O157 H7 str Sakai:contraction	2
+Shigella flexneri 2a str 301:contraction	1
+Salmonella enterica subsp enterica serovar Typhimurium str LT2:contraction	0
+Pseudomonas aeruginosa PAO1:contraction	2
+Pseudomonas fluorescens Pf0 1:contraction	1
+Pseudomonas syringae pv syringae B728a:contraction	3
+Xanthomonas campestris pv campestris str ATCC 33913:contraction	9
+Desulfovibrio vulgaris DP4:contraction	1
+Desulfovibrio fairfieldensis strain CCUG 45958:contraction	1
+Geobacter sulfurreducens PCA:contraction	5
+Anaeromyxobacter dehalogenans 2CP C:contraction	3
+Myxococcus xanthus DK 1622:contraction	5
+Leptotrichia sp oral taxon 212:contraction	4
+Sebaldella termitidis ATCC 33386:contraction	2
+Fusobacterium hwasookii ChDC F300:contraction	0
+Fusobacterium nucleatum subsp nucleatum ATCC 25586:contraction	1
+Lutibacter sp LP1:contraction	0
+Capnocytophaga canimorsus Cc5:contraction	0
+Melioribacter roseus P3M 2:contraction	5
+Leptospira interrogans serovar Lai str 56601:contraction	8
+Brachyspira murdochii DSM 12563:contraction	0
+Brachyspira intermedia PWS A:contraction	1
+Brachyspira hyodysenteriae WA1:contraction	1
+Treponema brennaborense DSM 12168:contraction	2
+Treponema pedis str T A4:contraction	1
+Campylobacter jejuni subsp jejuni 00 2538:contraction	1
+Helicobacter pylori UM032:contraction	1
+Anaerobaculum mobile DSM 13181:contraction	8
+Thermus thermophilus HB8:contraction	5
+Desulfurobacterium thermolithotrophum DSM 11699:contraction	0
+Aquifex aeolicus VF5:contraction	1
+Dictyoglomus turgidum DSM 6724:contraction	0
+Dictyoglomus thermophilum H 6 12:contraction	0
+Kosmotoga olearia TBF 1951:contraction	1
+Fervidobacterium nodosum Rt17 B1:contraction	2
+Pseudothermotoga hypogea NBRC 106472:contraction	1
+Pseudothermotoga elfii NBRC 107921:contraction	0
+Pseudothermotoga lettingae TMO:contraction	0
+1:contraction	0
+2:contraction	10
+3:contraction	0
+4:contraction	6
+5:contraction	8
+6:contraction	2
+7:contraction	10
+8:contraction	3
+9:contraction	6
+10:contraction	4
+11:contraction	4
+12:contraction	9
+13:contraction	0
+14:contraction	2
+15:contraction	4
+16:contraction	5
+17:contraction	9
+18:contraction	9
+19:contraction	0
+20:contraction	0
+21:contraction	0
+22:contraction	0
+23:contraction	10
+24:contraction	0
+25:contraction	0
+26:contraction	3
+27:contraction	1
+28:contraction	0
+29:contraction	3
+30:contraction	0
+31:contraction	1
+32:contraction	0
+33:contraction	0
+34:contraction	1
+35:contraction	0
+36:contraction	0
+37:contraction	0
+38:contraction	1
+39:contraction	0
+40:contraction	0
+41:contraction	2
+42:contraction	1
+43:contraction	0
+44:contraction	0
+45:contraction	0
+46:contraction	1
+47:contraction	0
+48:contraction	1
+49:contraction	1
+50:contraction	10
+51:contraction	0
+52:contraction	0
+53:contraction	0
+54:contraction	2
+55:contraction	11
+56:contraction	0
+57:contraction	4
+58:contraction	1
+59:contraction	1
+60:contraction	0
+61:contraction	0
+62:contraction	0
+63:contraction	0
+64:contraction	0
+65:contraction	1
+66:contraction	0
+67:contraction	0
+68:contraction	1
+69:contraction	0
+70:contraction	1
+71:contraction	0
+72:contraction	1
+73:contraction	0
+74:contraction	0
+75:contraction	0
+76:contraction	2
+77:contraction	0
+78:contraction	0
+79:contraction	0
+80:contraction	1
+81:contraction	0
+82:contraction	0
+83:contraction	1
+84:contraction	0
+85:contraction	6
+86:contraction	1
+87:contraction	2
+88:contraction	2
+89:contraction	4
+90:contraction	1
+91:contraction	5
+92:contraction	0
+93:contraction	13
+94:contraction	10
+95:contraction	2
+96:contraction	0
+97:contraction	1
+98:contraction	1
+99:contraction	1
+100:contraction	2
+101:contraction	0
+102:contraction	4
+103:contraction	2
+104:contraction	3
+105:contraction	0
+106:contraction	4
+107:contraction	1
+108:contraction	3
+109:contraction	0
+110:contraction	4
+111:contraction	0
+112:contraction	3
+113:contraction	4
+114:contraction	3
+115:contraction	0
+116:contraction	6
+117:contraction	1
+118:contraction	2
+119:contraction	1
+120:contraction	1
+121:contraction	0
+122:contraction	9
+123:contraction	0
+124:contraction	1
+125:contraction	2
+126:contraction	6
+127:contraction	2
+128:contraction	6
+129:contraction	0
+130:contraction	5
+131:contraction	5
+132:contraction	3
+133:contraction	9
+134:contraction	0
+135:contraction	1
+136:contraction	0
+137:contraction	0
+138:contraction	0
+139:contraction	0
+140:contraction	6
+141:contraction	2
+142:contraction	0
+143:contraction	1
+144:contraction	1
+145:contraction	2
+146:contraction	7
+147:contraction	0
+148:contraction	6
+149:contraction	11
+150:contraction	12
+151:contraction	11
+152:contraction	0
+153:contraction	1
+154:contraction	7
+155:contraction	5
+156:contraction	5
+157:contraction	3
+158:contraction	0
+159:contraction	6
+160:contraction	0
+161:contraction	3
+162:contraction	11
+163:contraction	5
+164:contraction	0
+165:contraction	1
+166:contraction	3
+167:contraction	1
+168:contraction	3
+169:contraction	2
+170:contraction	9
+171:contraction	4
+172:contraction	4
+173:contraction	7
+174:contraction	0
+175:contraction	4
+176:contraction	4
+177:contraction	1
+178:contraction	1
+179:contraction	3
+180:contraction	1
+181:contraction	3
+182:contraction	0
+183:contraction	1
+184:contraction	6
+185:contraction	6
+186:contraction	1
+187:contraction	4
+188:contraction	7
+189:contraction	3
+190:contraction	3
+191:contraction	3
+192:contraction	1
+193:contraction	4
+194:contraction	3
+195:contraction	2
+196:contraction	1
+197:contraction	3
+198:contraction	4
+199:contraction	1
+200:contraction	2
+201:contraction	0
+202:contraction	1
+203:contraction	1
+204:contraction	2
+205:contraction	1
+206:contraction	7
+207:contraction	13
+208:contraction	18
+209:contraction	12
+210:contraction	0
+211:contraction	0
+212:contraction	2
+213:contraction	3
+214:contraction	8
+215:contraction	5
+216:contraction	5
+217:contraction	0
+218:contraction	3
+219:contraction	0
+220:contraction	4
+221:contraction	3
+222:contraction	3
+223:contraction	1
+224:contraction	4
+225:contraction	5
+226:contraction	1
+227:contraction	7
+228:contraction	1
+229:contraction	0
+230:contraction	2
+231:contraction	3
+232:contraction	10
+233:contraction	9
+234:contraction	6
+235:contraction	6
+236:contraction	8
+237:contraction	5
+238:contraction	12
+239:contraction	8
+240:contraction	11
+241:contraction	6
+242:contraction	14
+243:contraction	3
+244:contraction	0
+245:contraction	6
+246:contraction	6
+247:contraction	8
+248:contraction	0
+249:contraction	8
+250:contraction	10
+251:contraction	1
+252:contraction	1
+253:contraction	0
+254:contraction	0
+255:contraction	4
+256:contraction	4
+257:contraction	0
+258:contraction	1
+259:contraction	0
+260:contraction	4
+261:contraction	5
+262:contraction	3
+263:contraction	0

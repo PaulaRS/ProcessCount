@@ -10,7 +10,7 @@ Given a phylogenetic profile as input, COUNT computes posterior probabilities fo
 This data is retrieved in a large table and processed here with total_posteriors_Count.py to estimate the total number
 of gains, losses, presences, expansions, contractions and multiple presences in a readable format. 
 
-usage: python total_posteriors_Count.py --posteriors [POSTERIORS FILE]
+usage: python total_posteriors_Count.py --posteriors [PATH TO POSTERIORS FILE]
 
 References: 
 1. Count - software for analysis of gene content evolution is available at 
@@ -37,10 +37,10 @@ import sys
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Print total presences, multi, gains, losses, expansions, "
-                                                 "contractions from Posteriors - Count")
+    parser = argparse.ArgumentParser(description="Computes total presences, multi, gains, losses, expansions, "
+                                                 "contractions from Posteriors - Count to Total_Posteriors_Count.txt")
     parser.add_argument('--posteriors', dest='posteriors',
-                        help='csv file with posteriors file with comment lines removed')
+                        help='path to csv file with posteriors, comment lines removed')
 
     args = parser.parse_args()
 
@@ -61,6 +61,7 @@ def main():
 
 
 def count_total_by_node(rows, columns, posteriors):
+    file = open('Total_Posteriors_Count.txt', 'a')
     for node in columns:
 
         total = 0
@@ -70,7 +71,8 @@ def count_total_by_node(rows, columns, posteriors):
             if not math.isnan(posteriors.at[index, node]):
                 total += float(posteriors.at[index, node])
 
-        print('{}\t{}'.format(node, int(round(total))))
+        file.write('{}\t{}\n'.format(node, int(round(total))))
+    file.close()
 
 
 #########################

@@ -5,6 +5,8 @@ This repository contains the python script **total_posteriors_Count.py** to calc
 Input file is the table resulting from Posteriors analysis made with the software Count:
 http://www.iro.umontreal.ca/~csuros/gene_content/count.html
 
+Output is written to **Total_Posteriors_Count.txt**.
+
 # Before running the script
 
 Install the following python packages: argparse, pandas, re, math, sys
