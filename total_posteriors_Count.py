@@ -1,6 +1,6 @@
 __author__ = "Paula Ramos-Silva"
 __dateCreated__ = "25-11-2016"
-__dateModified__ = "23-02-2024"
+__dateModified__ = "29-02-2024"
 
 """
 Given a phylogenetic profile as input, COUNT computes posterior probabilities for every gene, including:
